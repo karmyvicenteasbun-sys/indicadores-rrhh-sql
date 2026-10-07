@@ -1,0 +1,4 @@
+grupo,meses_persona,dias_ausencia,ausentismo,pct_faltas_injustificadas
+1. Últimos 3 meses antes de renunciar,720,566,0.0326,0.527
+2. Meses anteriores de quienes renunciaron,2088,1074,0.0175,0.347
+3. Quienes no renunciaron,15552,7372,0.0159,0.342

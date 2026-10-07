@@ -1,0 +1,4 @@
+grupo,personas,episodios,dias_ausencia,pct_de_los_dias,dias_por_persona,factor_minimo,factor_maximo
+1. El 5% con mayor factor,26,326,361,0.136,13.9,1400,4275
+2. El 15% siguiente,78,687,728,0.274,9.3,392,1331
+3. El 80% restante,403,1507,1570,0.59,3.9,0,392

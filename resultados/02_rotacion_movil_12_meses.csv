@@ -1,0 +1,176 @@
+periodo,area,renuncias_12m,dotacion_promedio_12m,rotacion_voluntaria_12m
+2024-09,Toda la empresa,69,503.2,0.1371
+2024-10,Toda la empresa,74,503.8,0.1469
+2024-11,Toda la empresa,84,504.3,0.1666
+2024-12,Toda la empresa,83,504.8,0.1644
+2025-01,Toda la empresa,88,505.4,0.1741
+2025-02,Toda la empresa,90,506.0,0.1779
+2025-03,Toda la empresa,90,506.6,0.1777
+2025-04,Toda la empresa,92,507.2,0.1814
+2025-05,Toda la empresa,94,507.8,0.1851
+2025-06,Toda la empresa,88,508.3,0.1731
+2025-07,Toda la empresa,90,508.8,0.1769
+2025-08,Toda la empresa,95,509.4,0.1865
+2025-09,Toda la empresa,95,510.0,0.1863
+2025-10,Toda la empresa,92,510.6,0.1802
+2025-11,Toda la empresa,86,511.2,0.1682
+2025-12,Toda la empresa,86,511.8,0.1681
+2026-01,Toda la empresa,83,512.3,0.162
+2026-02,Toda la empresa,77,512.8,0.1501
+2026-03,Toda la empresa,85,513.4,0.1656
+2026-04,Toda la empresa,82,514.0,0.1595
+2026-05,Toda la empresa,85,514.6,0.1652
+2026-06,Toda la empresa,90,515.2,0.1747
+2026-07,Toda la empresa,86,515.8,0.1667
+2026-08,Toda la empresa,84,516.3,0.1627
+2026-09,Toda la empresa,86,516.8,0.1664
+2024-09,Administración y Finanzas,1,41.0,0.0244
+2024-10,Administración y Finanzas,1,41.1,0.0243
+2024-11,Administración y Finanzas,1,41.2,0.0243
+2024-12,Administración y Finanzas,1,41.3,0.0242
+2025-01,Administración y Finanzas,0,41.5,0.0
+2025-02,Administración y Finanzas,0,41.7,0.0
+2025-03,Administración y Finanzas,0,41.8,0.0
+2025-04,Administración y Finanzas,0,42.0,0.0
+2025-05,Administración y Finanzas,0,42.3,0.0
+2025-06,Administración y Finanzas,1,42.5,0.0235
+2025-07,Administración y Finanzas,1,42.8,0.0234
+2025-08,Administración y Finanzas,1,43.0,0.0233
+2025-09,Administración y Finanzas,1,43.3,0.0231
+2025-10,Administración y Finanzas,1,43.4,0.023
+2025-11,Administración y Finanzas,2,43.6,0.0459
+2025-12,Administración y Finanzas,2,43.7,0.0458
+2026-01,Administración y Finanzas,2,43.8,0.0457
+2026-02,Administración y Finanzas,2,43.8,0.0456
+2026-03,Administración y Finanzas,2,43.9,0.0455
+2026-04,Administración y Finanzas,2,44.0,0.0455
+2026-05,Administración y Finanzas,2,44.0,0.0455
+2026-06,Administración y Finanzas,2,44.0,0.0455
+2026-07,Administración y Finanzas,2,44.0,0.0455
+2026-08,Administración y Finanzas,2,44.0,0.0455
+2026-09,Administración y Finanzas,2,44.0,0.0455
+2024-09,Calidad,2,30.0,0.0667
+2024-10,Calidad,3,30.0,0.1
+2024-11,Calidad,3,30.0,0.1
+2024-12,Calidad,2,30.0,0.0667
+2025-01,Calidad,2,30.0,0.0667
+2025-02,Calidad,2,30.0,0.0667
+2025-03,Calidad,2,30.0,0.0667
+2025-04,Calidad,2,30.0,0.0667
+2025-05,Calidad,2,30.0,0.0667
+2025-06,Calidad,2,30.0,0.0667
+2025-07,Calidad,4,30.0,0.1333
+2025-08,Calidad,4,30.1,0.133
+2025-09,Calidad,4,30.2,0.1326
+2025-10,Calidad,3,30.3,0.0992
+2025-11,Calidad,3,30.3,0.0989
+2025-12,Calidad,3,30.4,0.0986
+2026-01,Calidad,3,30.5,0.0984
+2026-02,Calidad,3,30.6,0.0981
+2026-03,Calidad,3,30.7,0.0978
+2026-04,Calidad,3,30.8,0.0976
+2026-05,Calidad,3,30.8,0.0973
+2026-06,Calidad,3,30.9,0.097
+2026-07,Calidad,1,31.0,0.0323
+2026-08,Calidad,1,31.0,0.0323
+2026-09,Calidad,0,31.0,0.0
+2024-09,Logística y Distribución,23,114.8,0.2004
+2024-10,Logística y Distribución,26,114.8,0.2264
+2024-11,Logística y Distribución,29,114.9,0.2524
+2024-12,Logística y Distribución,29,115.0,0.2522
+2025-01,Logística y Distribución,32,115.0,0.2783
+2025-02,Logística y Distribución,34,115.0,0.2957
+2025-03,Logística y Distribución,35,115.1,0.3041
+2025-04,Logística y Distribución,36,115.2,0.3126
+2025-05,Logística y Distribución,35,115.3,0.3037
+2025-06,Logística y Distribución,31,115.3,0.2688
+2025-07,Logística y Distribución,29,115.5,0.2511
+2025-08,Logística y Distribución,31,115.7,0.268
+2025-09,Logística y Distribución,32,115.8,0.2763
+2025-10,Logística y Distribución,30,116.0,0.2586
+2025-11,Logística y Distribución,27,116.2,0.2324
+2025-12,Logística y Distribución,25,116.3,0.2149
+2026-01,Logística y Distribución,24,116.5,0.206
+2026-02,Logística y Distribución,21,116.7,0.18
+2026-03,Logística y Distribución,25,116.8,0.214
+2026-04,Logística y Distribución,24,117.0,0.2051
+2026-05,Logística y Distribución,27,117.2,0.2304
+2026-06,Logística y Distribución,32,117.3,0.2727
+2026-07,Logística y Distribución,31,117.4,0.264
+2026-08,Logística y Distribución,31,117.5,0.2638
+2026-09,Logística y Distribución,36,117.6,0.3062
+2024-09,Mantenimiento,3,40.0,0.075
+2024-10,Mantenimiento,2,40.0,0.05
+2024-11,Mantenimiento,1,40.0,0.025
+2024-12,Mantenimiento,0,40.0,0.0
+2025-01,Mantenimiento,1,40.1,0.0249
+2025-02,Mantenimiento,1,40.2,0.0249
+2025-03,Mantenimiento,1,40.3,0.0248
+2025-04,Mantenimiento,1,40.3,0.0248
+2025-05,Mantenimiento,1,40.4,0.0247
+2025-06,Mantenimiento,1,40.5,0.0247
+2025-07,Mantenimiento,1,40.6,0.0246
+2025-08,Mantenimiento,1,40.7,0.0246
+2025-09,Mantenimiento,2,40.8,0.0491
+2025-10,Mantenimiento,2,40.8,0.049
+2025-11,Mantenimiento,2,40.9,0.0489
+2025-12,Mantenimiento,2,41.0,0.0488
+2026-01,Mantenimiento,3,41.0,0.0732
+2026-02,Mantenimiento,3,41.0,0.0732
+2026-03,Mantenimiento,3,41.0,0.0732
+2026-04,Mantenimiento,3,41.0,0.0732
+2026-05,Mantenimiento,3,41.0,0.0732
+2026-06,Mantenimiento,3,41.0,0.0732
+2026-07,Mantenimiento,3,41.0,0.0732
+2026-08,Mantenimiento,3,41.0,0.0732
+2026-09,Mantenimiento,3,41.0,0.0732
+2024-09,Producción,25,203.8,0.1226
+2024-10,Producción,26,204.2,0.1273
+2024-11,Producción,33,204.4,0.1614
+2024-12,Producción,33,204.7,0.1612
+2025-01,Producción,34,204.9,0.1659
+2025-02,Producción,33,205.2,0.1608
+2025-03,Producción,34,205.4,0.1655
+2025-04,Producción,37,205.7,0.1799
+2025-05,Producción,41,205.8,0.1992
+2025-06,Producción,42,205.9,0.204
+2025-07,Producción,46,206.0,0.2233
+2025-08,Producción,48,206.0,0.233
+2025-09,Producción,49,206.0,0.2379
+2025-10,Producción,47,206.1,0.2281
+2025-11,Producción,44,206.2,0.2134
+2025-12,Producción,45,206.3,0.2181
+2026-01,Producción,43,206.5,0.2082
+2026-02,Producción,40,206.8,0.1935
+2026-03,Producción,42,207.0,0.2029
+2026-04,Producción,40,207.3,0.193
+2026-05,Producción,38,207.5,0.1831
+2026-06,Producción,37,207.8,0.1781
+2026-07,Producción,35,208.0,0.1683
+2026-08,Producción,33,208.3,0.1585
+2026-09,Producción,29,208.5,0.1391
+2024-09,Ventas,15,73.6,0.2039
+2024-10,Ventas,16,73.7,0.2172
+2024-11,Ventas,17,73.8,0.2305
+2024-12,Ventas,18,73.8,0.2438
+2025-01,Ventas,19,73.9,0.257
+2025-02,Ventas,20,74.0,0.2703
+2025-03,Ventas,18,74.0,0.2432
+2025-04,Ventas,16,74.0,0.2162
+2025-05,Ventas,15,74.0,0.2027
+2025-06,Ventas,11,74.0,0.1486
+2025-07,Ventas,9,74.0,0.1216
+2025-08,Ventas,10,74.0,0.1351
+2025-09,Ventas,7,74.0,0.0946
+2025-10,Ventas,9,74.0,0.1216
+2025-11,Ventas,8,74.0,0.1081
+2025-12,Ventas,9,74.0,0.1216
+2026-01,Ventas,8,74.0,0.1081
+2026-02,Ventas,8,74.0,0.1081
+2026-03,Ventas,10,74.0,0.1351
+2026-04,Ventas,10,74.0,0.1351
+2026-05,Ventas,12,74.1,0.162
+2026-06,Ventas,13,74.2,0.1753
+2026-07,Ventas,14,74.3,0.1883
+2026-08,Ventas,14,74.5,0.1879
+2026-09,Ventas,16,74.8,0.214

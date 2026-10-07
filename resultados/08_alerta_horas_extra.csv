@@ -1,0 +1,36 @@
+id_colaborador,area,cargo,turno,desde,hasta,meses_seguidos,horas_extra_promedio,situacion
+C0085,Logística y Distribución,Ayudante de reparto,Rotativo,2025-10,2026-09,12,58.0,Sigue
+C0686,Logística y Distribución,Auxiliar de almacén,Rotativo,2025-10,2026-05,8,55.1,Terminó
+C0403,Producción,Auxiliar de producción,Rotativo,2025-10,2026-04,7,57.6,Terminó
+C0566,Logística y Distribución,Ayudante de reparto,Diurno,2025-11,2026-05,7,50.1,Terminó
+C0710,Logística y Distribución,Supervisor de distribución,Diurno,2025-10,2026-03,6,59.0,Terminó
+C0727,Logística y Distribución,Chofer repartidor,Diurno,2025-11,2026-04,6,57.4,Terminó
+C0491,Producción,Operador de llenadora,Diurno,2026-05,2026-09,5,61.3,Sigue
+C0100,Logística y Distribución,Chofer repartidor,Diurno,2025-10,2026-02,5,59.1,Terminó
+C0314,Logística y Distribución,Auxiliar de almacén,Diurno,2025-11,2026-03,5,52.5,Terminó
+C0705,Producción,Operador de llenadora,Rotativo,2025-11,2026-03,5,51.9,Terminó
+C0305,Producción,Operador de llenadora,Rotativo,2025-11,2026-03,5,49.0,Terminó
+C0372,Producción,Operario de línea,Diurno,2025-11,2026-02,4,57.9,Terminó
+C0161,Producción,Operario de línea,Rotativo,2025-11,2026-02,4,57.3,Terminó
+C0129,Producción,Auxiliar de producción,Rotativo,2026-02,2026-05,4,55.4,Terminó
+C0418,Mantenimiento,Técnico eléctrico,Rotativo,2025-11,2026-02,4,55.1,Terminó
+C0166,Logística y Distribución,Ayudante de reparto,Rotativo,2025-12,2026-03,4,54.1,Terminó
+C0036,Logística y Distribución,Chofer repartidor,Rotativo,2026-01,2026-04,4,53.3,Terminó
+C0478,Producción,Auxiliar de producción,Diurno,2025-10,2026-01,4,51.5,Terminó
+C0289,Logística y Distribución,Auxiliar de almacén,Rotativo,2026-01,2026-04,4,51.4,Terminó
+C0728,Logística y Distribución,Ayudante de reparto,Diurno,2025-12,2026-03,4,51.0,Terminó
+C0644,Producción,Operador de llenadora,Rotativo,2025-12,2026-03,4,50.8,Terminó
+C0520,Producción,Supervisor de turno,Diurno,2025-11,2026-02,4,48.8,Terminó
+C0283,Logística y Distribución,Auxiliar de almacén,Diurno,2025-12,2026-03,4,47.1,Terminó
+C0395,Logística y Distribución,Chofer repartidor,Diurno,2025-12,2026-03,4,46.4,Terminó
+C0527,Producción,Operador de llenadora,Rotativo,2025-12,2026-03,4,46.4,Terminó
+C0241,Producción,Operario de línea,Rotativo,2025-10,2026-01,4,44.6,Terminó
+C0701,Producción,Operario de línea,Rotativo,2025-10,2025-12,3,64.0,Terminó
+C0430,Logística y Distribución,Chofer repartidor,Diurno,2025-11,2026-01,3,57.7,Terminó
+C0452,Logística y Distribución,Chofer repartidor,Diurno,2025-12,2026-02,3,57.0,Terminó
+C0093,Producción,Operario de línea,Rotativo,2025-12,2026-02,3,53.5,Terminó
+C0590,Logística y Distribución,Ayudante de reparto,Diurno,2026-03,2026-05,3,52.5,Terminó
+C0628,Producción,Operario de línea,Diurno,2025-10,2025-12,3,50.0,Terminó
+C0005,Logística y Distribución,Ayudante de reparto,Diurno,2025-11,2026-01,3,47.5,Terminó
+C0342,Logística y Distribución,Auxiliar de almacén,Diurno,2025-12,2026-02,3,47.5,Terminó
+C0736,Producción,Auxiliar de producción,Rotativo,2026-02,2026-04,3,47.5,Terminó

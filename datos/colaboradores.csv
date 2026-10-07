@@ -1,0 +1,831 @@
+id_colaborador,area,cargo,nivel,turno,fecha_ingreso,fecha_egreso,tipo_egreso,edad_ingreso,distancia_km,compa_ratio,evaluacion_desempeno,haber_basico_actual_bs
+C0001,Ventas,Mercaderista,Operativo,Diurno,2008-10-21,,,24,4.1,0.85,4,3442.0
+C0002,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2008-10-26,2026-03-09,Desvinculación,21,5.5,1.0,2,3894.0
+C0003,Ventas,Preventista,Operativo,Diurno,2008-12-15,,,28,7.7,1.02,4,4131.0
+C0004,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2008-12-16,2024-07-19,Renuncia voluntaria,26,17.5,1.01,3,3781.0
+C0005,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2008-12-26,,,40,8.0,1.0,4,4050.0
+C0006,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2008-12-28,,,23,11.8,1.02,4,4131.0
+C0007,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2009-01-02,,,36,3.3,1.06,3,7750.0
+C0008,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2009-02-15,2024-10-20,Renuncia voluntaria,27,29.1,0.97,3,6557.0
+C0009,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2009-03-30,,,38,6.6,1.07,3,4333.0
+C0010,Producción,Auxiliar de producción,Operativo,Rotativo,2009-03-31,,,29,4.6,0.98,3,3969.0
+C0011,Ventas,Mercaderista,Operativo,Diurno,2009-04-20,2026-03-07,Renuncia voluntaria,28,9.3,0.96,4,3738.0
+C0012,Administración y Finanzas,Asistente contable,Técnico y supervisión,Diurno,2009-05-02,,,40,9.5,1.06,3,7750.0
+C0013,Producción,Operario de línea,Operativo,Rotativo,2009-05-03,,,28,7.4,0.88,3,3564.0
+C0014,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2009-05-10,,,31,5.4,1.0,4,7312.0
+C0015,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2009-05-30,,,36,8.2,0.88,3,6434.0
+C0016,Producción,Auxiliar de producción,Operativo,Rotativo,2009-06-27,2025-08-05,Renuncia voluntaria,18,17.7,0.99,4,3855.0
+C0017,Mantenimiento,Ayudante de mantenimiento,Operativo,Diurno,2009-07-17,,,43,5.4,0.9,4,3645.0
+C0018,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2009-08-17,2024-07-25,Renuncia voluntaria,43,14.3,0.92,2,6219.0
+C0019,Producción,Auxiliar de producción,Operativo,Rotativo,2009-08-24,2024-11-08,Renuncia voluntaria,35,2.8,1.05,4,3931.0
+C0020,Producción,Auxiliar de producción,Operativo,Rotativo,2009-09-04,,,28,3.7,0.95,3,3847.0
+C0021,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2009-09-09,,,26,14.0,1.13,4,8262.0
+C0022,Administración y Finanzas,Contador general,Profesional y jefatura,Diurno,2009-09-13,,,39,5.8,1.09,5,15326.0
+C0023,Producción,Auxiliar de producción,Operativo,Rotativo,2009-09-30,,,25,8.2,1.12,2,4535.0
+C0024,Calidad,Inspector de calidad,Operativo,Diurno,2009-10-03,2023-12-05,Renuncia voluntaria,29,5.3,0.98,4,3528.0
+C0025,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2009-10-04,2024-07-14,Renuncia voluntaria,28,24.5,0.97,4,3632.0
+C0026,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2009-10-25,,,31,9.2,0.94,3,13217.0
+C0027,Producción,Auxiliar de producción,Operativo,Diurno,2009-10-28,2025-02-14,Renuncia voluntaria,30,2.9,1.02,4,3819.0
+C0028,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Diurno,2009-11-12,,,34,7.0,0.91,3,12795.0
+C0029,Producción,Auxiliar de producción,Operativo,Rotativo,2009-12-02,,,26,5.0,0.99,3,4009.0
+C0030,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2009-12-09,,,28,11.4,1.05,3,4252.0
+C0031,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2009-12-19,,,19,5.2,0.97,3,3928.0
+C0032,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Diurno,2009-12-30,,,44,8.0,1.1,5,15467.0
+C0033,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2010-01-04,,,45,13.8,1.07,3,7823.0
+C0034,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2010-01-12,,,18,5.5,1.03,3,4171.0
+C0035,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2010-01-13,,,28,7.9,0.92,3,6727.0
+C0036,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2010-01-27,,,34,13.4,1.05,3,4252.0
+C0037,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2010-02-07,,,24,14.8,1.04,3,4211.0
+C0038,Producción,Operador de llenadora,Operativo,Diurno,2010-02-09,,,36,6.6,1.04,3,4211.0
+C0039,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2010-02-22,2023-11-14,Desvinculación,44,10.0,0.92,2,5980.0
+C0040,Calidad,Inspector de calidad,Operativo,Diurno,2010-03-01,,,25,10.1,1.03,3,4171.0
+C0041,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2010-03-02,2024-09-07,Desvinculación,33,11.1,1.06,2,7166.0
+C0042,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2010-04-19,,,36,2.8,1.07,4,4333.0
+C0043,Producción,Operario de línea,Operativo,Rotativo,2010-04-24,2024-05-18,Renuncia voluntaria,29,17.2,0.8,2,2995.0
+C0044,Ventas,Analista comercial,Profesional y jefatura,Diurno,2010-04-26,,,35,15.6,1.09,3,15326.0
+C0045,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2010-05-24,,,29,9.9,1.16,4,4697.0
+C0046,Producción,Auxiliar de producción,Operativo,Diurno,2010-05-30,2024-12-29,Renuncia voluntaria,34,5.2,0.92,4,3444.0
+C0047,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2010-06-25,,,34,17.0,1.06,3,7750.0
+C0048,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2010-07-21,,,25,7.3,1.02,3,4131.0
+C0049,Producción,Operario de línea,Operativo,Diurno,2010-07-28,2025-10-13,Renuncia voluntaria,19,11.3,0.98,5,3816.0
+C0050,Ventas,Mercaderista,Operativo,Diurno,2010-09-07,,,32,8.3,0.98,4,3969.0
+C0051,Producción,Auxiliar de producción,Operativo,Diurno,2010-10-05,,,33,4.2,0.92,4,3726.0
+C0052,Producción,Operario de línea,Operativo,Rotativo,2010-10-14,,,36,12.9,0.89,4,3604.0
+C0053,Ventas,Preventista,Operativo,Diurno,2010-10-30,,,26,4.1,0.98,4,3969.0
+C0054,Ventas,Preventista,Operativo,Diurno,2010-12-09,2025-09-29,Desvinculación,28,11.8,1.04,2,4050.0
+C0055,Producción,Operario de línea,Operativo,Rotativo,2010-12-18,,,23,4.9,1.01,4,4090.0
+C0056,Producción,Auxiliar de producción,Operativo,Diurno,2010-12-18,,,37,4.0,1.08,4,4373.0
+C0057,Producción,Operador de llenadora,Operativo,Rotativo,2010-12-31,,,37,2.6,1.02,3,4131.0
+C0058,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2011-01-12,,,29,5.0,1.11,4,4495.0
+C0059,Producción,Operador de llenadora,Operativo,Diurno,2011-01-21,2024-05-13,Desvinculación,18,3.9,0.95,3,3557.0
+C0060,Ventas,Mercaderista,Operativo,Diurno,2011-02-09,2025-10-12,Renuncia voluntaria,20,3.9,0.97,4,3777.0
+C0061,Ventas,Preventista,Operativo,Diurno,2011-02-28,,,24,5.8,0.88,3,3564.0
+C0062,Ventas,Mercaderista,Operativo,Diurno,2011-03-06,,,23,19.7,0.96,2,3888.0
+C0063,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2011-03-06,2024-05-08,Desvinculación,38,5.9,0.92,2,6219.0
+C0064,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2011-03-12,2026-03-01,Renuncia voluntaria,21,7.5,1.01,4,3933.0
+C0065,Producción,Auxiliar de producción,Operativo,Rotativo,2011-03-31,,,30,17.5,1.06,4,4292.0
+C0066,Producción,Operador de llenadora,Operativo,Diurno,2011-04-06,,,22,12.7,1.04,3,4211.0
+C0067,Administración y Finanzas,Analista financiero,Profesional y jefatura,Diurno,2011-04-07,,,32,9.7,0.83,3,11670.0
+C0068,Calidad,Inspector de calidad,Operativo,Diurno,2011-06-19,2024-10-07,Renuncia voluntaria,23,6.7,0.87,4,3257.0
+C0069,Ventas,Preventista,Operativo,Diurno,2011-07-04,,,29,8.3,1.01,3,4090.0
+C0070,Producción,Operador de llenadora,Operativo,Rotativo,2011-08-11,,,18,1.7,0.92,3,3726.0
+C0071,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2011-08-15,,,30,7.8,0.92,4,6727.0
+C0072,Producción,Operario de línea,Operativo,Rotativo,2011-08-19,,,30,6.5,1.0,3,4050.0
+C0073,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2011-09-07,2026-08-05,Renuncia voluntaria,31,10.4,1.01,4,7385.0
+C0074,Calidad,Inspector de calidad,Operativo,Rotativo,2011-09-21,2025-07-09,Desvinculación,20,10.1,1.09,3,4244.0
+C0075,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2011-09-23,,,27,5.9,1.08,3,4373.0
+C0076,Producción,Operador de llenadora,Operativo,Rotativo,2011-09-28,,,24,19.5,0.94,3,3807.0
+C0077,Producción,Auxiliar de producción,Operativo,Rotativo,2011-10-06,2026-04-09,Renuncia voluntaria,18,2.0,0.95,3,3699.0
+C0078,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2011-10-28,2024-03-01,Renuncia voluntaria,30,4.5,0.84,2,5460.0
+C0079,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2011-11-25,,,28,4.7,0.94,4,3807.0
+C0080,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2011-12-15,2025-11-10,Desvinculación,25,9.6,0.89,3,3465.0
+C0081,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2012-01-04,,,37,6.4,1.03,2,7531.0
+C0082,Ventas,Mercaderista,Operativo,Diurno,2012-02-09,,,26,5.5,0.93,3,3766.0
+C0083,Producción,Auxiliar de producción,Operativo,Rotativo,2012-04-01,,,35,6.9,1.11,4,4495.0
+C0084,Calidad,Jefe de calidad,Profesional y jefatura,Diurno,2012-04-03,,,29,2.8,0.87,3,12233.0
+C0085,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2012-04-17,,,29,2.3,1.0,3,4050.0
+C0086,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2012-05-11,,,23,9.5,0.93,3,3766.0
+C0087,Producción,Operario de línea,Operativo,Diurno,2012-06-02,,,21,4.1,1.11,3,4495.0
+C0088,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2012-08-01,,,31,6.8,0.98,4,7165.0
+C0089,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2012-08-14,,,36,11.0,1.01,3,14201.0
+C0090,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2012-08-14,,,25,7.4,1.07,3,4333.0
+C0091,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2012-08-20,,,33,19.6,0.96,4,7019.0
+C0092,Logística y Distribución,Jefe de logística,Profesional y jefatura,Diurno,2012-09-12,,,42,3.8,0.85,3,11952.0
+C0093,Producción,Operario de línea,Operativo,Rotativo,2012-10-02,,,28,9.8,1.01,3,4090.0
+C0094,Calidad,Inspector de calidad,Operativo,Rotativo,2012-10-22,2026-04-21,Desvinculación,32,9.3,1.04,2,4050.0
+C0095,Producción,Auxiliar de producción,Operativo,Rotativo,2012-11-10,,,33,5.3,0.99,5,4009.0
+C0096,Producción,Auxiliar de producción,Operativo,Rotativo,2013-01-31,,,22,15.4,0.89,3,3604.0
+C0097,Ventas,Preventista,Operativo,Diurno,2013-02-04,,,23,5.0,1.08,3,4373.0
+C0098,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2013-02-04,,,33,20.4,0.98,3,3969.0
+C0099,Producción,Auxiliar de producción,Operativo,Diurno,2013-02-08,,,22,6.7,0.93,2,3766.0
+C0100,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2013-02-09,,,31,13.1,0.98,3,3969.0
+C0101,Producción,Auxiliar de producción,Operativo,Rotativo,2013-03-12,,,25,7.5,1.05,3,4252.0
+C0102,Producción,Operario de línea,Operativo,Diurno,2013-04-06,2024-10-27,Desvinculación,33,5.1,0.99,2,3707.0
+C0103,Producción,Auxiliar de producción,Operativo,Rotativo,2013-04-21,,,21,14.2,1.0,2,4050.0
+C0104,Producción,Operario de línea,Operativo,Rotativo,2013-04-30,2025-10-13,Renuncia voluntaria,36,6.3,0.91,5,3543.0
+C0105,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2013-05-09,,,27,3.9,1.02,3,4131.0
+C0106,Calidad,Inspector de calidad,Operativo,Rotativo,2013-05-13,2024-09-16,Renuncia voluntaria,25,7.1,0.85,2,3182.0
+C0107,Ventas,Preventista,Operativo,Diurno,2013-06-01,,,36,18.2,0.99,3,4009.0
+C0108,Producción,Auxiliar de producción,Operativo,Rotativo,2013-06-03,,,29,5.1,1.0,4,4050.0
+C0109,Producción,Operador de llenadora,Operativo,Diurno,2013-06-20,2024-09-11,Desvinculación,30,14.2,1.05,2,3931.0
+C0110,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2013-07-19,2026-04-22,Desvinculación,29,4.0,1.05,3,4088.0
+C0111,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2013-07-24,,,32,13.9,0.98,3,13780.0
+C0112,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2013-08-05,,,33,6.3,0.89,2,6507.0
+C0113,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2013-09-09,2024-02-25,Desvinculación,34,16.9,1.03,4,6695.0
+C0114,Producción,Auxiliar de producción,Operativo,Diurno,2013-09-29,,,33,8.5,0.8,5,3240.0
+C0115,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2013-11-18,,,35,3.9,1.06,4,7750.0
+C0116,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2013-12-01,2026-03-23,Desvinculación,24,2.9,0.96,3,6749.0
+C0117,Producción,Jefe de producción,Profesional y jefatura,Diurno,2013-12-06,,,42,6.8,1.02,2,14342.0
+C0118,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2013-12-11,2023-11-27,Desvinculación,25,15.4,0.92,3,3312.0
+C0119,Producción,Operario de línea,Operativo,Rotativo,2013-12-21,,,27,6.2,0.96,4,3888.0
+C0120,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2014-01-29,,,34,5.9,1.02,2,7458.0
+C0121,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2014-02-06,2023-12-07,Renuncia voluntaria,28,7.0,0.97,3,3492.0
+C0122,Producción,Operario de línea,Operativo,Diurno,2014-02-14,2024-06-09,Desvinculación,23,3.4,0.91,2,3407.0
+C0123,Administración y Finanzas,Asistente contable,Técnico y supervisión,Diurno,2014-02-24,,,35,3.1,1.0,3,7312.0
+C0124,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2014-03-09,2025-02-24,Desvinculación,40,19.3,0.99,3,6692.0
+C0125,Producción,Auxiliar de producción,Operativo,Rotativo,2014-03-23,2024-09-04,Renuncia voluntaria,36,3.9,1.02,4,3819.0
+C0126,Ventas,Preventista,Operativo,Diurno,2014-04-05,2024-03-19,Desvinculación,49,8.1,0.89,3,3204.0
+C0127,Ventas,Mercaderista,Operativo,Diurno,2014-04-06,2024-05-25,Renuncia voluntaria,26,22.0,1.0,4,3744.0
+C0128,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2014-04-08,,,31,3.8,1.04,3,4211.0
+C0129,Producción,Auxiliar de producción,Operativo,Rotativo,2014-05-23,,,29,4.4,1.0,4,4050.0
+C0130,Producción,Operador de llenadora,Operativo,Rotativo,2014-06-07,,,31,7.9,1.1,3,4454.0
+C0131,Producción,Auxiliar de producción,Operativo,Rotativo,2014-06-19,,,30,12.9,1.06,3,4292.0
+C0132,Ventas,Mercaderista,Operativo,Diurno,2014-06-26,,,24,5.9,1.04,3,4211.0
+C0133,Logística y Distribución,Jefe de logística,Profesional y jefatura,Diurno,2014-07-15,,,44,17.4,1.0,4,14061.0
+C0134,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2014-07-29,,,31,4.1,1.15,3,8408.0
+C0135,Ventas,Mercaderista,Operativo,Diurno,2014-08-01,,,28,14.6,0.94,4,3807.0
+C0136,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2014-08-03,,,32,14.8,1.03,4,4171.0
+C0137,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2014-09-07,,,28,9.4,1.03,4,4171.0
+C0138,Calidad,Inspector de calidad,Operativo,Rotativo,2014-09-13,,,28,7.6,1.13,3,4576.0
+C0139,Calidad,Inspector de calidad,Operativo,Rotativo,2014-10-17,2024-12-21,Desvinculación,29,3.7,1.19,4,4455.0
+C0140,Ventas,Preventista,Operativo,Diurno,2014-10-29,,,29,10.1,1.03,2,4171.0
+C0141,Producción,Auxiliar de producción,Operativo,Rotativo,2014-11-11,,,27,10.3,1.03,2,4171.0
+C0142,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2014-11-21,,,33,11.8,1.02,1,4131.0
+C0143,Producción,Operario de línea,Operativo,Diurno,2014-12-05,,,21,24.2,0.95,3,3847.0
+C0144,Administración y Finanzas,Analista financiero,Profesional y jefatura,Diurno,2015-01-09,,,37,6.1,1.07,3,15045.0
+C0145,Ventas,Mercaderista,Operativo,Diurno,2015-01-28,,,43,6.5,1.0,4,4050.0
+C0146,Producción,Operador de llenadora,Operativo,Diurno,2015-02-22,,,30,6.7,0.88,3,3564.0
+C0147,Producción,Auxiliar de producción,Operativo,Rotativo,2015-03-26,,,26,3.5,1.08,3,4373.0
+C0148,Producción,Operario de línea,Operativo,Diurno,2015-04-15,,,23,4.8,1.05,3,4252.0
+C0149,Ventas,Mercaderista,Operativo,Diurno,2015-04-21,,,34,3.0,0.93,3,3766.0
+C0150,Ventas,Preventista,Operativo,Diurno,2015-04-23,,,33,18.0,1.07,3,4333.0
+C0151,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2015-04-25,,,20,11.3,1.0,4,7312.0
+C0152,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2015-05-14,2024-01-14,Desvinculación,33,7.7,0.85,4,3060.0
+C0153,Ventas,Mercaderista,Operativo,Diurno,2015-05-21,2024-03-14,Renuncia voluntaria,33,7.5,1.06,2,3816.0
+C0154,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2015-07-25,2025-11-28,Desvinculación,36,6.2,1.0,4,3894.0
+C0155,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Diurno,2015-08-01,,,37,3.0,0.85,4,11952.0
+C0156,Producción,Operador de llenadora,Operativo,Rotativo,2015-08-01,,,25,11.5,1.04,3,4211.0
+C0157,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2015-08-15,,,18,14.0,1.01,4,7385.0
+C0158,Calidad,Inspector de calidad,Operativo,Rotativo,2015-08-19,,,34,8.9,0.8,4,3240.0
+C0159,Calidad,Inspector de calidad,Operativo,Diurno,2015-09-02,,,25,4.8,1.0,4,4050.0
+C0160,Producción,Operario de línea,Operativo,Rotativo,2015-09-25,,,23,5.0,1.11,4,4495.0
+C0161,Producción,Operario de línea,Operativo,Rotativo,2015-10-01,2026-05-25,Renuncia voluntaria,24,10.6,0.94,3,3807.0
+C0162,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2015-11-19,2025-10-30,Desvinculación,18,6.0,0.9,2,3504.0
+C0163,Ventas,Preventista,Operativo,Diurno,2015-11-22,,,34,9.7,0.96,4,3888.0
+C0164,Producción,Auxiliar de producción,Operativo,Diurno,2015-11-27,2023-12-01,Desvinculación,22,7.2,1.03,2,3708.0
+C0165,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2015-12-02,,,25,15.2,0.95,3,3847.0
+C0166,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2015-12-26,,,27,5.7,1.04,3,4211.0
+C0167,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Rotativo,2016-02-07,2025-09-27,Renuncia voluntaria,21,8.9,1.0,3,7030.0
+C0168,Producción,Auxiliar de producción,Operativo,Diurno,2016-02-21,,,37,19.5,1.16,2,4697.0
+C0169,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2016-03-08,,,18,15.6,1.0,3,4050.0
+C0170,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2016-04-03,2024-11-23,Renuncia voluntaria,21,7.5,0.98,2,3669.0
+C0171,Ventas,Mercaderista,Operativo,Diurno,2016-04-16,,,23,13.8,0.96,3,3888.0
+C0172,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2016-05-17,,,34,8.1,0.97,2,7092.0
+C0173,Producción,Auxiliar de producción,Operativo,Rotativo,2016-07-24,,,20,9.6,0.93,1,3766.0
+C0174,Administración y Finanzas,Analista financiero,Profesional y jefatura,Diurno,2016-08-20,,,31,5.7,0.95,5,13358.0
+C0175,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2016-08-24,,,32,4.7,0.92,2,6727.0
+C0176,Producción,Operador de llenadora,Operativo,Rotativo,2016-08-29,,,21,7.8,1.07,3,4333.0
+C0177,Producción,Operario de línea,Operativo,Rotativo,2016-10-14,2024-04-23,Renuncia voluntaria,18,5.0,0.85,5,3060.0
+C0178,Producción,Operario de línea,Operativo,Diurno,2016-11-01,2026-03-03,Renuncia voluntaria,38,4.9,0.95,3,3699.0
+C0179,Producción,Auxiliar de producción,Operativo,Diurno,2016-11-10,,,23,13.4,1.01,3,4090.0
+C0180,Producción,Auxiliar de producción,Operativo,Rotativo,2016-11-16,,,34,30.6,0.97,3,3928.0
+C0181,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2016-11-24,,,33,7.8,1.04,4,7604.0
+C0182,Ventas,Preventista,Operativo,Diurno,2016-11-24,2026-05-11,Renuncia voluntaria,34,12.1,0.98,1,3969.0
+C0183,Producción,Auxiliar de producción,Operativo,Diurno,2016-11-26,,,30,3.8,0.97,3,3928.0
+C0184,Producción,Auxiliar de producción,Operativo,Rotativo,2016-12-29,2024-11-11,Renuncia voluntaria,18,4.9,1.06,3,3969.0
+C0185,Producción,Auxiliar de producción,Operativo,Diurno,2017-01-26,,,32,6.1,1.03,3,4171.0
+C0186,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2017-02-04,2024-02-02,Renuncia voluntaria,37,7.7,0.94,4,6110.0
+C0187,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2017-02-11,2025-09-17,Desvinculación,29,9.4,1.0,3,3894.0
+C0188,Logística y Distribución,Jefe de logística,Profesional y jefatura,Diurno,2017-03-03,,,36,7.3,0.95,4,13358.0
+C0189,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2017-03-18,,,28,4.8,1.04,3,4211.0
+C0190,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2017-03-30,2025-09-25,Desvinculación,31,4.7,1.04,2,4050.0
+C0191,Ventas,Mercaderista,Operativo,Diurno,2017-04-21,2025-01-16,Desvinculación,28,10.8,0.97,3,3632.0
+C0192,Administración y Finanzas,Contador general,Profesional y jefatura,Diurno,2017-04-25,,,31,6.4,1.03,3,14483.0
+C0193,Producción,Auxiliar de producción,Operativo,Diurno,2017-05-09,,,18,7.9,1.01,4,4090.0
+C0194,Ventas,Preventista,Operativo,Diurno,2017-05-17,,,27,6.2,1.07,3,4333.0
+C0195,Producción,Operario de línea,Operativo,Diurno,2017-05-17,,,19,2.8,1.06,3,4292.0
+C0196,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2017-05-20,,,28,3.8,1.02,5,7458.0
+C0197,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2017-05-26,2024-06-20,Renuncia voluntaria,34,5.7,0.99,4,6692.0
+C0198,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2017-06-24,2023-12-16,Renuncia voluntaria,31,30.7,0.92,5,5980.0
+C0199,Producción,Operario de línea,Operativo,Rotativo,2017-06-30,,,35,7.7,1.13,4,4576.0
+C0200,Producción,Auxiliar de producción,Operativo,Diurno,2017-07-17,,,23,8.6,0.94,3,3807.0
+C0201,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2017-08-04,,,29,10.8,0.97,3,7092.0
+C0202,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2017-08-12,,,31,5.9,1.16,3,8481.0
+C0203,Ventas,Mercaderista,Operativo,Diurno,2017-08-16,,,27,3.1,1.19,4,4819.0
+C0204,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2017-09-04,,,27,7.5,0.97,4,7092.0
+C0205,Producción,Auxiliar de producción,Operativo,Rotativo,2017-09-30,2024-11-08,Renuncia voluntaria,20,5.4,0.84,3,3145.0
+C0206,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2017-10-10,,,24,5.1,0.95,4,3847.0
+C0207,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2017-10-13,,,22,7.0,1.01,4,7385.0
+C0208,Calidad,Inspector de calidad,Operativo,Diurno,2017-10-28,,,18,7.3,1.12,5,4535.0
+C0209,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2017-12-14,,,32,3.8,0.95,3,6946.0
+C0210,Administración y Finanzas,Contador general,Profesional y jefatura,Diurno,2018-01-01,,,35,3.9,1.01,3,14201.0
+C0211,Ventas,Mercaderista,Operativo,Diurno,2018-01-02,,,33,7.1,0.93,5,3766.0
+C0212,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Diurno,2018-02-16,,,33,7.2,0.99,3,13920.0
+C0213,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2018-02-26,2025-06-18,Renuncia voluntaria,26,5.4,0.89,4,3465.0
+C0214,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2018-03-09,,,26,3.0,0.99,2,4009.0
+C0215,Ventas,Preventista,Operativo,Diurno,2018-03-30,,,24,5.6,0.98,3,3969.0
+C0216,Ventas,Jefe comercial,Profesional y jefatura,Diurno,2018-04-13,,,36,8.5,1.02,2,14342.0
+C0217,Producción,Operario de línea,Operativo,Rotativo,2018-05-14,,,29,11.6,1.05,3,4252.0
+C0218,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2018-05-27,,,31,5.3,1.05,2,4252.0
+C0219,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2018-06-06,2023-12-17,Renuncia voluntaria,30,9.0,0.92,3,3312.0
+C0220,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2018-06-23,2025-02-17,Renuncia voluntaria,23,7.6,1.07,3,4006.0
+C0221,Calidad,Analista de laboratorio,Técnico y supervisión,Rotativo,2018-07-31,,,27,16.6,1.0,2,7312.0
+C0222,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2018-09-03,,,41,14.3,0.9,3,6580.0
+C0223,Ventas,Preventista,Operativo,Diurno,2018-09-20,2024-06-28,Renuncia voluntaria,19,7.5,0.95,4,3557.0
+C0224,Producción,Operario de línea,Operativo,Rotativo,2018-09-23,,,32,14.3,1.0,2,4050.0
+C0225,Producción,Auxiliar de producción,Operativo,Diurno,2018-10-10,,,18,14.7,1.22,3,4940.0
+C0226,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2018-10-20,2026-04-29,Desvinculación,26,7.9,0.99,2,3855.0
+C0227,Producción,Operario de línea,Operativo,Rotativo,2018-10-22,,,42,13.7,1.05,2,4252.0
+C0228,Administración y Finanzas,Cajero,Operativo,Diurno,2018-10-22,,,31,11.3,1.07,4,4333.0
+C0229,Administración y Finanzas,Cajero,Operativo,Diurno,2018-11-11,,,37,7.0,1.08,4,4373.0
+C0230,Producción,Operador de llenadora,Operativo,Diurno,2018-12-16,,,31,5.8,0.95,1,3847.0
+C0231,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2019-01-15,,,28,6.4,0.9,2,6580.0
+C0232,Producción,Auxiliar de producción,Operativo,Diurno,2019-01-15,,,27,5.9,0.89,5,3604.0
+C0233,Ventas,Preventista,Operativo,Diurno,2019-01-27,,,25,8.3,0.91,2,3685.0
+C0234,Producción,Operario de línea,Operativo,Diurno,2019-02-28,,,28,6.0,1.12,2,4535.0
+C0235,Ventas,Mercaderista,Operativo,Diurno,2019-03-14,,,24,12.2,1.08,3,4373.0
+C0236,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2019-03-22,,,26,7.6,0.93,4,3766.0
+C0237,Producción,Operador de llenadora,Operativo,Diurno,2019-05-01,,,18,3.8,1.06,3,4292.0
+C0238,Logística y Distribución,Jefe de logística,Profesional y jefatura,Diurno,2019-06-03,,,40,3.4,0.95,3,13358.0
+C0239,Producción,Operador de llenadora,Operativo,Diurno,2019-06-03,,,20,10.9,1.13,3,4576.0
+C0240,Producción,Operario de línea,Operativo,Rotativo,2019-06-26,,,24,5.2,1.04,2,4211.0
+C0241,Producción,Operario de línea,Operativo,Rotativo,2019-08-01,,,37,8.3,1.13,3,4576.0
+C0242,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2019-08-15,,,35,11.0,0.89,3,3604.0
+C0243,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2019-08-20,,,34,15.2,0.94,3,3807.0
+C0244,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2019-09-29,2025-07-10,Renuncia voluntaria,28,3.6,0.91,4,6398.0
+C0245,Calidad,Inspector de calidad,Operativo,Rotativo,2019-10-19,,,32,7.4,1.05,5,4252.0
+C0246,Ventas,Mercaderista,Operativo,Diurno,2019-11-09,,,36,11.2,1.06,3,4292.0
+C0247,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Diurno,2019-11-10,,,44,6.2,1.04,4,14623.0
+C0248,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2019-11-18,2023-10-22,Renuncia voluntaria,32,11.7,0.87,3,3132.0
+C0249,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2019-12-30,,,25,14.5,0.98,4,7165.0
+C0250,Producción,Operador de llenadora,Operativo,Rotativo,2020-01-17,2026-05-22,Desvinculación,20,8.2,1.22,4,4940.0
+C0251,Ventas,Preventista,Operativo,Diurno,2020-02-22,,,30,7.5,1.07,4,4333.0
+C0252,Producción,Auxiliar de producción,Operativo,Diurno,2020-04-06,,,35,4.7,0.93,3,3766.0
+C0253,Ventas,Preventista,Operativo,Diurno,2020-04-13,2025-01-07,Renuncia voluntaria,24,8.7,1.04,4,3894.0
+C0254,Producción,Operario de línea,Operativo,Diurno,2020-05-26,2025-05-02,Renuncia voluntaria,18,23.0,1.02,3,3972.0
+C0255,Producción,Operario de línea,Operativo,Diurno,2020-05-29,2024-09-21,Renuncia voluntaria,29,10.1,1.04,4,3894.0
+C0256,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2020-06-26,,,26,6.9,1.07,3,4333.0
+C0257,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2020-06-30,,,40,14.8,0.92,3,6727.0
+C0258,Ventas,Mercaderista,Operativo,Diurno,2020-07-28,2024-09-04,Desvinculación,31,4.5,1.07,4,4006.0
+C0259,Producción,Operario de línea,Operativo,Rotativo,2020-08-03,,,33,15.7,0.92,4,3726.0
+C0260,Ventas,Preventista,Operativo,Diurno,2020-09-03,,,33,5.4,1.08,3,4373.0
+C0261,Producción,Auxiliar de producción,Operativo,Diurno,2020-09-17,2025-09-22,Renuncia voluntaria,18,3.8,0.93,4,3621.0
+C0262,Producción,Operador de llenadora,Operativo,Rotativo,2020-10-06,,,22,17.0,0.95,4,3847.0
+C0263,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2020-10-06,,,18,8.2,1.01,3,4090.0
+C0264,Producción,Operario de línea,Operativo,Diurno,2020-10-29,,,34,5.6,1.13,4,4576.0
+C0265,Calidad,Inspector de calidad,Operativo,Diurno,2020-11-11,,,30,9.1,1.09,4,4414.0
+C0266,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2020-11-12,,,24,5.9,1.02,4,4131.0
+C0267,Ventas,Mercaderista,Operativo,Diurno,2020-11-19,,,24,10.0,0.93,2,3766.0
+C0268,Producción,Operario de línea,Operativo,Rotativo,2020-11-29,,,32,11.4,1.01,3,4090.0
+C0269,Producción,Operario de línea,Operativo,Rotativo,2020-12-07,2025-12-14,Renuncia voluntaria,39,6.0,0.82,3,3193.0
+C0270,Ventas,Mercaderista,Operativo,Diurno,2020-12-21,,,29,9.1,0.89,4,3604.0
+C0271,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2020-12-24,2024-06-23,Renuncia voluntaria,37,3.8,0.99,4,3707.0
+C0272,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2021-01-07,2025-02-16,Renuncia voluntaria,29,16.6,0.8,4,2995.0
+C0273,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2021-01-11,,,31,10.0,1.09,3,7970.0
+C0274,Administración y Finanzas,Asistente contable,Técnico y supervisión,Diurno,2021-01-12,,,29,5.0,1.02,4,7458.0
+C0275,Producción,Operador de llenadora,Operativo,Rotativo,2021-01-18,2025-05-02,Renuncia voluntaria,34,3.6,1.15,3,4478.0
+C0276,Producción,Auxiliar de producción,Operativo,Diurno,2021-01-19,,,23,12.3,1.2,3,4859.0
+C0277,Producción,Operario de línea,Operativo,Diurno,2021-01-24,,,37,4.6,1.04,3,4211.0
+C0278,Producción,Auxiliar de producción,Operativo,Rotativo,2021-01-26,,,35,4.5,0.96,3,3888.0
+C0279,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2021-01-27,2025-11-08,Desvinculación,28,8.7,1.09,4,4244.0
+C0280,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2021-01-28,,,29,13.8,1.09,3,7970.0
+C0281,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2021-01-30,2025-03-19,Renuncia voluntaria,25,6.2,0.93,3,3482.0
+C0282,Producción,Operador de llenadora,Operativo,Rotativo,2021-02-01,,,27,1.6,0.96,4,3888.0
+C0283,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2021-02-05,2026-06-26,Renuncia voluntaria,26,3.8,0.96,4,3888.0
+C0284,Producción,Operario de línea,Operativo,Diurno,2021-02-05,,,31,7.1,0.98,2,3969.0
+C0285,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2021-02-06,,,39,5.3,1.07,3,7823.0
+C0286,Calidad,Jefe de calidad,Profesional y jefatura,Diurno,2021-02-09,,,32,6.2,1.01,3,14201.0
+C0287,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2021-02-15,,,28,4.2,1.06,5,4292.0
+C0288,Producción,Operador de llenadora,Operativo,Diurno,2021-02-17,2024-05-09,Desvinculación,38,14.5,0.98,2,3669.0
+C0289,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2021-02-18,,,18,10.9,1.14,3,4616.0
+C0290,Calidad,Inspector de calidad,Operativo,Diurno,2021-02-18,,,26,5.2,1.08,3,4373.0
+C0291,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2021-02-18,,,23,4.7,0.99,4,4009.0
+C0292,Producción,Auxiliar de producción,Operativo,Rotativo,2021-02-20,,,27,3.6,1.09,2,4414.0
+C0293,Administración y Finanzas,Asistente contable,Técnico y supervisión,Diurno,2021-02-23,,,26,4.8,1.13,4,8262.0
+C0294,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Diurno,2021-02-24,,,39,5.5,0.96,3,13498.0
+C0295,Ventas,Preventista,Operativo,Diurno,2021-03-05,2024-06-18,Renuncia voluntaria,26,5.1,0.99,3,3707.0
+C0296,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2021-03-07,,,31,6.9,1.0,3,7312.0
+C0297,Producción,Operario de línea,Operativo,Diurno,2021-03-11,,,31,4.0,1.12,3,4535.0
+C0298,Ventas,Preventista,Operativo,Diurno,2021-03-13,2024-07-01,Renuncia voluntaria,20,7.2,0.98,5,3669.0
+C0299,Producción,Operario de línea,Operativo,Rotativo,2021-03-16,,,26,6.1,1.12,4,4535.0
+C0300,Ventas,Preventista,Operativo,Diurno,2021-03-19,,,31,15.9,1.02,4,4131.0
+C0301,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2021-03-28,2025-07-12,Desvinculación,28,5.1,0.99,3,3855.0
+C0302,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2021-04-18,,,34,7.5,1.07,3,4333.0
+C0303,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2021-04-19,,,35,11.6,0.91,2,6654.0
+C0304,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2021-04-20,,,25,13.1,1.06,2,4292.0
+C0305,Producción,Operador de llenadora,Operativo,Rotativo,2021-04-21,,,22,5.0,1.02,4,4131.0
+C0306,Producción,Operador de llenadora,Operativo,Diurno,2021-05-02,2026-03-04,Renuncia voluntaria,18,9.9,0.92,4,3582.0
+C0307,Ventas,Analista comercial,Profesional y jefatura,Diurno,2021-05-10,,,39,9.1,0.84,4,11811.0
+C0308,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2021-05-11,2025-03-29,Renuncia voluntaria,28,5.1,1.12,4,7571.0
+C0309,Calidad,Jefe de calidad,Profesional y jefatura,Diurno,2021-05-16,,,40,12.8,0.92,4,12936.0
+C0310,Producción,Operador de llenadora,Operativo,Diurno,2021-05-22,,,19,13.9,0.92,5,3726.0
+C0311,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2021-05-30,,,28,6.1,0.93,4,3766.0
+C0312,Producción,Operador de llenadora,Operativo,Rotativo,2021-06-01,2025-09-02,Renuncia voluntaria,25,9.9,1.07,4,4166.0
+C0313,Ventas,Mercaderista,Operativo,Diurno,2021-06-04,2024-03-25,Renuncia voluntaria,25,6.5,0.99,3,3564.0
+C0314,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2021-06-06,,,32,13.5,1.04,4,4211.0
+C0315,Ventas,Mercaderista,Operativo,Diurno,2021-06-08,2025-10-09,Renuncia voluntaria,25,8.5,0.92,5,3582.0
+C0316,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2021-06-16,2024-10-22,Renuncia voluntaria,42,11.9,1.03,3,3856.0
+C0317,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Diurno,2021-06-22,,,43,8.8,0.97,3,13639.0
+C0318,Producción,Auxiliar de producción,Operativo,Rotativo,2021-07-01,2024-12-24,Renuncia voluntaria,18,6.8,0.99,4,3707.0
+C0319,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2021-07-02,,,29,7.5,0.96,5,7019.0
+C0320,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2021-07-17,,,49,5.0,0.94,4,6873.0
+C0321,Producción,Auxiliar de producción,Operativo,Rotativo,2021-07-19,2024-06-30,Renuncia voluntaria,33,3.3,1.15,4,4306.0
+C0322,Producción,Operario de línea,Operativo,Rotativo,2021-07-26,2023-12-14,Desvinculación,24,5.3,0.91,4,3276.0
+C0323,Producción,Auxiliar de producción,Operativo,Rotativo,2021-08-01,2024-01-05,Renuncia voluntaria,22,15.6,1.05,4,3780.0
+C0324,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2021-08-04,,,30,11.6,1.11,4,4495.0
+C0325,Producción,Auxiliar de producción,Operativo,Rotativo,2021-08-05,2025-01-07,Renuncia voluntaria,33,24.6,0.98,4,3669.0
+C0326,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2021-08-08,2023-12-01,Renuncia voluntaria,26,11.0,1.02,2,3672.0
+C0327,Producción,Operador de llenadora,Operativo,Diurno,2021-08-09,,,18,9.4,1.1,2,4454.0
+C0328,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Diurno,2021-08-10,,,39,5.1,1.01,4,14201.0
+C0329,Producción,Auxiliar de producción,Operativo,Rotativo,2021-08-10,,,22,3.4,1.09,2,4414.0
+C0330,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2021-08-13,,,23,13.1,0.99,4,4009.0
+C0331,Producción,Operador de llenadora,Operativo,Diurno,2021-08-19,2024-03-05,Desvinculación,18,6.6,0.9,2,3240.0
+C0332,Producción,Operador de llenadora,Operativo,Diurno,2021-08-20,,,27,3.4,1.01,4,4090.0
+C0333,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2021-08-22,2024-04-04,Renuncia voluntaria,33,8.5,1.09,3,3924.0
+C0334,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2021-08-28,2025-01-06,Renuncia voluntaria,38,12.3,1.05,4,3931.0
+C0335,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2021-08-29,2026-03-10,Renuncia voluntaria,29,10.6,0.85,3,3310.0
+C0336,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2021-08-30,,,31,7.8,1.08,4,4373.0
+C0337,Producción,Operario de línea,Operativo,Rotativo,2021-09-01,2025-11-27,Desvinculación,30,19.7,0.92,2,3582.0
+C0338,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2021-09-06,,,29,17.5,1.11,3,8116.0
+C0339,Producción,Operario de línea,Operativo,Diurno,2021-09-28,,,26,5.0,0.88,4,3564.0
+C0340,Producción,Auxiliar de producción,Operativo,Diurno,2021-09-30,2025-09-13,Renuncia voluntaria,31,8.0,0.97,3,3777.0
+C0341,Administración y Finanzas,Cajero,Operativo,Diurno,2021-10-02,,,25,3.9,0.94,3,3807.0
+C0342,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2021-10-05,,,30,1.4,0.93,2,3766.0
+C0343,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2021-10-19,,,36,20.2,0.96,4,7019.0
+C0344,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2021-10-24,,,48,7.1,0.9,3,12655.0
+C0345,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2021-10-31,,,35,7.0,1.07,3,15045.0
+C0346,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2021-11-03,,,31,14.0,1.0,4,14061.0
+C0347,Producción,Operador de llenadora,Operativo,Diurno,2021-11-07,2025-11-03,Renuncia voluntaria,28,6.8,0.86,2,3349.0
+C0348,Administración y Finanzas,Analista financiero,Profesional y jefatura,Diurno,2021-11-08,,,36,7.2,0.94,4,13217.0
+C0349,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2021-11-08,2024-03-16,Desvinculación,36,7.4,0.94,2,6110.0
+C0350,Mantenimiento,Ayudante de mantenimiento,Operativo,Diurno,2021-11-09,,,29,10.5,0.96,3,3888.0
+C0351,Ventas,Mercaderista,Operativo,Diurno,2021-12-05,,,32,2.1,1.12,2,4535.0
+C0352,Producción,Auxiliar de producción,Operativo,Rotativo,2021-12-07,2023-10-29,Renuncia voluntaria,24,9.8,1.06,2,3816.0
+C0353,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2021-12-17,,,30,3.2,0.93,4,3766.0
+C0354,Producción,Operador de llenadora,Operativo,Rotativo,2021-12-18,,,21,13.3,0.95,4,3847.0
+C0355,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2021-12-20,,,23,15.0,1.04,3,7604.0
+C0356,Producción,Operador de llenadora,Operativo,Rotativo,2021-12-23,2025-02-12,Renuncia voluntaria,18,7.6,0.87,5,3257.0
+C0357,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2022-01-01,,,39,14.3,1.02,3,7458.0
+C0358,Producción,Auxiliar de producción,Operativo,Rotativo,2022-01-03,,,29,6.9,0.98,4,3969.0
+C0359,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2022-01-03,,,18,3.0,0.99,2,4009.0
+C0360,Producción,Operador de llenadora,Operativo,Rotativo,2022-01-12,,,27,4.9,0.92,3,3726.0
+C0361,Producción,Operario de línea,Operativo,Diurno,2022-01-14,2025-03-09,Desvinculación,33,10.6,0.95,2,3557.0
+C0362,Administración y Finanzas,Cajero,Operativo,Diurno,2022-01-14,2024-01-29,Renuncia voluntaria,32,10.6,0.95,4,3420.0
+C0363,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2022-01-23,,,38,16.7,1.06,3,7750.0
+C0364,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2022-01-23,2026-05-16,Desvinculación,32,5.8,0.97,3,3928.0
+C0365,Producción,Operario de línea,Operativo,Rotativo,2022-01-29,,,31,10.4,0.92,4,3726.0
+C0366,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2022-01-31,2023-10-30,Renuncia voluntaria,29,3.8,1.05,4,3780.0
+C0367,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2022-02-14,,,24,21.0,0.9,3,3645.0
+C0368,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2022-02-14,2025-10-22,Desvinculación,33,5.3,0.98,5,3816.0
+C0369,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2022-02-20,2024-05-10,Renuncia voluntaria,22,6.3,0.99,5,3707.0
+C0370,Administración y Finanzas,Asistente contable,Técnico y supervisión,Diurno,2022-02-21,,,36,6.3,0.8,3,5849.0
+C0371,Mantenimiento,Ayudante de mantenimiento,Operativo,Diurno,2022-02-25,,,21,11.0,1.0,3,4050.0
+C0372,Producción,Operario de línea,Operativo,Diurno,2022-03-29,,,26,9.0,1.09,5,4414.0
+C0373,Producción,Operador de llenadora,Operativo,Rotativo,2022-04-08,,,19,8.0,1.0,4,4050.0
+C0374,Producción,Operario de línea,Operativo,Diurno,2022-04-12,2025-06-25,Renuncia voluntaria,29,10.0,1.04,3,4050.0
+C0375,Producción,Operador de llenadora,Operativo,Diurno,2022-04-14,2025-03-20,Renuncia voluntaria,26,4.8,1.19,3,4455.0
+C0376,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2022-04-21,,,25,8.4,1.11,2,8116.0
+C0377,Ventas,Jefe comercial,Profesional y jefatura,Diurno,2022-04-22,,,33,11.8,0.95,3,13358.0
+C0378,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2022-04-25,2024-11-11,Renuncia voluntaria,18,7.7,0.87,2,3257.0
+C0379,Ventas,Mercaderista,Operativo,Diurno,2022-04-28,2023-11-29,Desvinculación,31,4.0,0.96,3,3456.0
+C0380,Calidad,Inspector de calidad,Operativo,Diurno,2022-04-28,2025-07-13,Desvinculación,20,4.7,1.07,5,4166.0
+C0381,Administración y Finanzas,Analista financiero,Profesional y jefatura,Diurno,2022-05-02,,,38,4.8,0.94,4,13217.0
+C0382,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2022-05-03,2026-03-02,Renuncia voluntaria,32,5.5,0.96,3,3738.0
+C0383,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Rotativo,2022-05-07,,,35,23.7,0.84,4,6142.0
+C0384,Producción,Operador de llenadora,Operativo,Rotativo,2022-05-11,2024-11-23,Desvinculación,20,16.8,1.07,4,4006.0
+C0385,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2022-05-14,2023-11-03,Renuncia voluntaria,27,16.1,0.97,2,6305.0
+C0386,Producción,Auxiliar de producción,Operativo,Rotativo,2022-05-21,2023-10-22,Renuncia voluntaria,35,18.0,0.91,4,3276.0
+C0387,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Rotativo,2022-05-23,2025-11-09,Desvinculación,29,5.4,1.07,2,7523.0
+C0388,Administración y Finanzas,Asistente contable,Técnico y supervisión,Diurno,2022-05-23,,,30,4.5,0.8,4,5849.0
+C0389,Producción,Operador de llenadora,Operativo,Rotativo,2022-06-10,,,19,9.1,0.97,2,3928.0
+C0390,Ventas,Preventista,Operativo,Diurno,2022-06-13,,,34,3.4,0.96,4,3888.0
+C0391,Producción,Auxiliar de producción,Operativo,Rotativo,2022-06-16,2025-07-11,Renuncia voluntaria,37,5.8,1.0,4,3894.0
+C0392,Ventas,Mercaderista,Operativo,Diurno,2022-06-23,,,27,7.9,0.87,4,3523.0
+C0393,Administración y Finanzas,Contador general,Profesional y jefatura,Diurno,2022-06-23,,,36,7.5,0.99,4,13920.0
+C0394,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2022-06-25,,,33,7.2,0.94,3,6873.0
+C0395,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2022-06-25,,,34,9.6,1.09,3,4414.0
+C0396,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2022-06-29,2024-12-07,Renuncia voluntaria,21,12.2,0.98,3,3669.0
+C0397,Ventas,Preventista,Operativo,Diurno,2022-07-01,,,18,7.7,0.97,4,3928.0
+C0398,Producción,Operador de llenadora,Operativo,Rotativo,2022-07-01,,,28,9.9,1.09,4,4414.0
+C0399,Ventas,Mercaderista,Operativo,Diurno,2022-07-03,,,27,11.2,0.94,4,3807.0
+C0400,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2022-07-25,2024-06-20,Renuncia voluntaria,21,4.7,0.89,3,3332.0
+C0401,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2022-07-30,,,36,3.2,1.19,3,8701.0
+C0402,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2022-08-03,2026-09-07,Renuncia voluntaria,31,23.8,0.86,4,6288.0
+C0403,Producción,Auxiliar de producción,Operativo,Rotativo,2022-08-05,,,34,11.4,0.94,4,3807.0
+C0404,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2022-08-08,2023-12-29,Renuncia voluntaria,44,8.3,1.0,3,6500.0
+C0405,Producción,Operario de línea,Operativo,Diurno,2022-08-10,2023-11-10,Renuncia voluntaria,31,5.0,1.0,2,3600.0
+C0406,Producción,Operador de llenadora,Operativo,Rotativo,2022-08-11,,,18,7.6,0.97,3,3928.0
+C0407,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2022-08-27,,,34,10.3,0.95,3,6946.0
+C0408,Producción,Operario de línea,Operativo,Rotativo,2022-08-28,,,25,6.1,0.97,4,3928.0
+C0409,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2022-08-29,2024-08-24,Desvinculación,33,13.6,1.08,4,7301.0
+C0410,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2022-08-30,2025-04-19,Renuncia voluntaria,25,21.4,1.0,3,3744.0
+C0411,Producción,Operario de línea,Operativo,Rotativo,2022-09-05,,,28,15.5,0.93,5,3766.0
+C0412,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2022-09-12,2024-04-14,Desvinculación,18,11.5,0.85,4,3060.0
+C0413,Producción,Operario de línea,Operativo,Rotativo,2022-09-21,,,24,12.3,0.97,3,3928.0
+C0414,Producción,Auxiliar de producción,Operativo,Rotativo,2022-09-25,2025-06-10,Desvinculación,28,11.7,1.04,3,4050.0
+C0415,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2022-09-26,,,18,7.3,1.06,4,4292.0
+C0416,Producción,Operador de llenadora,Operativo,Diurno,2022-09-27,,,33,6.6,1.0,4,4050.0
+C0417,Ventas,Mercaderista,Operativo,Diurno,2022-10-12,,,33,6.7,0.92,4,3726.0
+C0418,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Rotativo,2022-10-13,,,26,34.6,0.93,4,6800.0
+C0419,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2022-10-21,2024-07-05,Renuncia voluntaria,21,16.5,1.03,3,3856.0
+C0420,Producción,Operador de llenadora,Operativo,Rotativo,2022-10-22,2026-06-25,Desvinculación,39,6.6,0.92,1,3726.0
+C0421,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2022-10-23,2024-07-02,Renuncia voluntaria,28,2.8,0.85,4,3182.0
+C0422,Producción,Operador de llenadora,Operativo,Diurno,2022-11-05,,,36,4.9,0.96,3,3888.0
+C0423,Producción,Operario de línea,Operativo,Diurno,2022-11-06,2026-04-22,Renuncia voluntaria,30,7.1,0.82,4,3193.0
+C0424,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2022-11-07,2025-07-16,Renuncia voluntaria,37,19.8,0.9,4,3504.0
+C0425,Producción,Operario de línea,Operativo,Rotativo,2022-11-28,2023-10-29,Renuncia voluntaria,34,3.7,1.04,4,3744.0
+C0426,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2022-12-07,2023-10-12,Renuncia voluntaria,25,2.0,0.95,3,6175.0
+C0427,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2022-12-08,,,27,3.0,1.11,3,8116.0
+C0428,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2022-12-16,2024-07-16,Renuncia voluntaria,29,22.4,0.86,4,3220.0
+C0429,Producción,Auxiliar de producción,Operativo,Rotativo,2022-12-18,2024-11-29,Desvinculación,23,8.2,0.94,3,3519.0
+C0430,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2022-12-18,,,34,17.2,1.07,3,4333.0
+C0431,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2022-12-21,2024-10-14,Renuncia voluntaria,26,2.3,1.08,2,4044.0
+C0432,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2022-12-22,,,33,16.5,1.2,4,8774.0
+C0433,Producción,Operario de línea,Operativo,Rotativo,2022-12-30,2026-02-21,Renuncia voluntaria,18,9.9,0.91,2,3543.0
+C0434,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2023-01-03,,,31,21.2,0.96,3,7019.0
+C0435,Calidad,Inspector de calidad,Operativo,Diurno,2023-01-03,,,32,12.3,1.06,3,4292.0
+C0436,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2023-01-09,,,31,13.2,1.04,3,7604.0
+C0437,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Diurno,2023-01-13,,,22,9.0,1.02,2,14342.0
+C0438,Producción,Operador de llenadora,Operativo,Rotativo,2023-01-15,,,26,10.7,1.08,3,4373.0
+C0439,Ventas,Preventista,Operativo,Diurno,2023-01-16,,,25,4.5,0.98,3,3969.0
+C0440,Producción,Operario de línea,Operativo,Rotativo,2023-01-17,2024-09-25,Desvinculación,31,5.4,1.07,2,4006.0
+C0441,Producción,Operario de línea,Operativo,Rotativo,2023-01-18,2024-03-28,Renuncia voluntaria,27,6.2,1.01,4,3636.0
+C0442,Producción,Auxiliar de producción,Operativo,Rotativo,2023-01-24,2024-11-23,Renuncia voluntaria,27,9.3,1.04,4,3894.0
+C0443,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2023-01-29,,,28,7.4,0.9,3,6580.0
+C0444,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2023-02-02,2025-01-11,Renuncia voluntaria,20,10.2,0.99,3,3707.0
+C0445,Ventas,Mercaderista,Operativo,Diurno,2023-02-05,2025-12-04,Desvinculación,29,12.6,0.99,4,3855.0
+C0446,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2023-02-07,,,32,8.3,1.08,4,4373.0
+C0447,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-02-07,2024-02-07,Renuncia voluntaria,25,13.6,0.99,5,3564.0
+C0448,Producción,Operador de llenadora,Operativo,Diurno,2023-02-09,2026-06-13,Renuncia voluntaria,27,8.4,1.03,4,4171.0
+C0449,Producción,Operador de llenadora,Operativo,Diurno,2023-02-13,,,27,5.2,1.1,3,4454.0
+C0450,Mantenimiento,Ayudante de mantenimiento,Operativo,Diurno,2023-02-15,,,19,2.8,1.07,3,4333.0
+C0451,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2023-02-16,2024-09-13,Renuncia voluntaria,31,4.9,1.07,3,4006.0
+C0452,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-02-19,,,33,5.3,0.96,4,3888.0
+C0453,Producción,Operario de línea,Operativo,Rotativo,2023-02-27,2024-02-21,Renuncia voluntaria,34,20.4,1.01,4,3636.0
+C0454,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2023-03-04,2024-11-06,Renuncia voluntaria,26,18.6,0.93,2,3482.0
+C0455,Ventas,Mercaderista,Operativo,Diurno,2023-03-06,,,29,10.4,1.14,3,4616.0
+C0456,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2023-03-07,2026-01-04,Desvinculación,28,6.8,1.12,3,7874.0
+C0457,Administración y Finanzas,Cajero,Operativo,Diurno,2023-03-09,,,19,13.6,0.95,2,3847.0
+C0458,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-03-10,,,23,5.5,1.03,3,4171.0
+C0459,Ventas,Preventista,Operativo,Diurno,2023-03-11,,,23,6.0,1.02,3,4131.0
+C0460,Producción,Operador de llenadora,Operativo,Rotativo,2023-03-19,,,31,20.9,0.84,4,3402.0
+C0461,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2023-03-21,,,30,12.5,0.99,3,7238.0
+C0462,Producción,Operador de llenadora,Operativo,Rotativo,2023-03-21,2025-11-26,Renuncia voluntaria,27,4.0,0.85,4,3310.0
+C0463,Producción,Operador de llenadora,Operativo,Rotativo,2023-03-24,2024-08-10,Renuncia voluntaria,22,8.5,0.99,3,3707.0
+C0464,Producción,Jefe de producción,Profesional y jefatura,Diurno,2023-03-28,2024-11-05,Desvinculación,42,6.2,0.96,3,12480.0
+C0465,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2023-04-01,2024-06-29,Desvinculación,31,7.9,0.96,3,3594.0
+C0466,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2023-04-02,,,29,12.6,0.96,2,7019.0
+C0467,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2023-04-08,,,30,14.5,1.0,2,7312.0
+C0468,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2023-04-08,,,20,4.3,0.95,3,6946.0
+C0469,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2023-04-17,,,32,8.7,1.04,3,7604.0
+C0470,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2023-04-19,,,31,12.2,0.95,3,6946.0
+C0471,Ventas,Mercaderista,Operativo,Diurno,2023-04-20,,,38,8.7,1.06,3,4292.0
+C0472,Producción,Operador de llenadora,Operativo,Rotativo,2023-05-08,2024-02-05,Renuncia voluntaria,18,18.3,1.04,4,3744.0
+C0473,Producción,Jefe de producción,Profesional y jefatura,Diurno,2023-05-12,2024-10-24,Desvinculación,47,8.9,1.07,3,13910.0
+C0474,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2023-05-12,2024-06-22,Renuncia voluntaria,40,6.7,0.92,2,6219.0
+C0475,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-05-25,2026-03-04,Desvinculación,36,3.7,1.01,3,3933.0
+C0476,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2023-05-28,2023-11-12,Renuncia voluntaria,35,4.8,0.95,3,3420.0
+C0477,Producción,Auxiliar de producción,Operativo,Rotativo,2023-06-03,2024-02-20,Renuncia voluntaria,21,7.7,1.0,3,3600.0
+C0478,Producción,Auxiliar de producción,Operativo,Diurno,2023-06-08,,,30,5.8,1.01,4,4090.0
+C0479,Producción,Operador de llenadora,Operativo,Rotativo,2023-06-19,,,29,2.4,1.0,4,4050.0
+C0480,Ventas,Analista comercial,Profesional y jefatura,Diurno,2023-06-26,2024-09-11,Renuncia voluntaria,23,7.9,1.05,4,13650.0
+C0481,Producción,Operador de llenadora,Operativo,Rotativo,2023-06-28,2023-12-22,Renuncia voluntaria,42,33.8,1.01,3,3636.0
+C0482,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-07-02,,,29,2.7,1.12,4,4535.0
+C0483,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2023-07-15,,,21,1.5,1.14,2,8335.0
+C0484,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2023-07-20,,,21,7.4,0.97,3,7092.0
+C0485,Calidad,Inspector de calidad,Operativo,Diurno,2023-07-25,,,33,4.1,0.92,3,3726.0
+C0486,Producción,Auxiliar de producción,Operativo,Diurno,2023-07-31,,,20,3.9,0.96,3,3888.0
+C0487,Ventas,Mercaderista,Operativo,Diurno,2023-08-01,2025-02-06,Renuncia voluntaria,24,17.6,0.92,4,3444.0
+C0488,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2023-08-02,,,32,4.2,1.03,3,4171.0
+C0489,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2023-08-12,2024-06-17,Desvinculación,36,13.5,0.93,3,3482.0
+C0490,Producción,Operario de línea,Operativo,Rotativo,2023-08-15,2024-03-29,Desvinculación,31,12.7,1.05,2,3780.0
+C0491,Producción,Operador de llenadora,Operativo,Diurno,2023-08-19,,,34,3.9,1.19,4,4819.0
+C0492,Ventas,Mercaderista,Operativo,Diurno,2023-08-28,2024-04-19,Renuncia voluntaria,29,11.6,1.03,3,3708.0
+C0493,Administración y Finanzas,Cajero,Operativo,Diurno,2023-08-28,,,19,6.6,0.9,3,3645.0
+C0494,Producción,Operador de llenadora,Operativo,Rotativo,2023-08-31,2025-09-30,Renuncia voluntaria,18,6.4,1.03,2,4011.0
+C0495,Producción,Auxiliar de producción,Operativo,Diurno,2023-09-08,,,31,11.5,0.94,3,3807.0
+C0496,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-09-09,,,25,10.2,1.01,4,4090.0
+C0497,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2023-09-10,,,27,5.6,1.02,2,14342.0
+C0498,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Diurno,2023-09-19,,,25,6.5,1.09,5,7970.0
+C0499,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2023-09-22,,,47,5.8,1.15,3,16170.0
+C0500,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2023-09-24,,,30,5.6,1.1,2,8043.0
+C0501,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2023-11-07,,,33,6.9,1.04,3,7604.0
+C0502,Producción,Operador de llenadora,Operativo,Rotativo,2023-11-08,2024-02-21,Renuncia voluntaria,26,10.5,1.2,3,4320.0
+C0503,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2023-11-18,2024-12-25,Renuncia voluntaria,25,4.9,0.83,2,3108.0
+C0504,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2023-11-19,,,27,2.8,1.11,4,4495.0
+C0505,Producción,Operador de llenadora,Operativo,Rotativo,2023-11-22,2024-11-14,Renuncia voluntaria,26,12.8,0.83,4,3108.0
+C0506,Producción,Operario de línea,Operativo,Rotativo,2023-11-24,2023-12-20,Renuncia voluntaria,18,8.9,0.97,3,3492.0
+C0507,Producción,Auxiliar de producción,Operativo,Diurno,2023-11-26,2024-07-11,Desvinculación,34,10.1,0.97,2,3632.0
+C0508,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2023-12-05,2024-03-06,Renuncia voluntaria,26,7.2,1.06,2,3816.0
+C0509,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2023-12-09,,,18,4.2,0.96,4,7019.0
+C0510,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2023-12-12,2026-03-30,Renuncia voluntaria,19,2.9,0.9,3,3504.0
+C0511,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2023-12-19,,,42,3.1,1.0,4,7312.0
+C0512,Ventas,Mercaderista,Operativo,Diurno,2023-12-19,2024-07-01,Renuncia voluntaria,38,16.8,0.85,4,3182.0
+C0513,Producción,Auxiliar de producción,Operativo,Rotativo,2023-12-27,2025-02-18,Renuncia voluntaria,34,11.6,0.93,3,3482.0
+C0514,Producción,Auxiliar de producción,Operativo,Diurno,2024-01-08,,,32,13.3,0.95,5,3847.0
+C0515,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-01-13,,,32,5.2,0.88,2,3564.0
+C0516,Producción,Operario de línea,Operativo,Diurno,2024-01-14,2024-10-08,Renuncia voluntaria,34,9.2,0.91,4,3407.0
+C0517,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2024-01-14,2026-01-29,Renuncia voluntaria,25,6.4,0.91,4,6398.0
+C0518,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-01-14,2024-11-03,Renuncia voluntaria,22,22.5,0.97,3,3632.0
+C0519,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-01-19,,,23,7.6,0.95,4,3847.0
+C0520,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2024-01-23,,,40,6.9,0.84,3,6142.0
+C0521,Calidad,Inspector de calidad,Operativo,Diurno,2024-01-24,,,24,5.6,0.89,4,3604.0
+C0522,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2024-01-24,2024-06-02,Renuncia voluntaria,36,20.0,0.83,5,5611.0
+C0523,Producción,Operador de llenadora,Operativo,Rotativo,2024-01-26,2024-09-22,Renuncia voluntaria,31,15.8,1.11,3,4156.0
+C0524,Producción,Operador de llenadora,Operativo,Diurno,2024-01-27,2024-08-02,Renuncia voluntaria,33,11.8,1.12,4,4193.0
+C0525,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2024-02-10,2025-06-22,Renuncia voluntaria,26,12.1,1.01,2,3933.0
+C0526,Administración y Finanzas,Cajero,Operativo,Diurno,2024-02-15,2026-03-27,Desvinculación,32,13.8,1.03,3,4011.0
+C0527,Producción,Operador de llenadora,Operativo,Rotativo,2024-02-28,2026-08-12,Desvinculación,33,5.1,0.9,2,3645.0
+C0528,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2024-03-01,,,29,12.8,0.99,3,7238.0
+C0529,Producción,Operario de línea,Operativo,Rotativo,2024-03-08,2025-11-23,Renuncia voluntaria,30,6.5,0.94,2,3660.0
+C0530,Ventas,Mercaderista,Operativo,Diurno,2024-03-09,2024-04-16,Renuncia voluntaria,31,10.5,0.9,3,3240.0
+C0531,Producción,Auxiliar de producción,Operativo,Rotativo,2024-03-12,2024-10-02,Renuncia voluntaria,36,33.4,0.82,5,3070.0
+C0532,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2024-03-14,,,28,17.1,0.93,2,6800.0
+C0533,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-03-17,2024-08-04,Renuncia voluntaria,27,15.0,1.02,2,3819.0
+C0534,Producción,Operador de llenadora,Operativo,Rotativo,2024-03-19,2025-12-15,Desvinculación,33,7.8,1.12,2,4361.0
+C0535,Producción,Auxiliar de producción,Operativo,Diurno,2024-03-21,,,31,13.9,1.1,4,4454.0
+C0536,Ventas,Preventista,Operativo,Diurno,2024-04-01,2024-06-16,Renuncia voluntaria,28,4.9,1.0,2,3744.0
+C0537,Producción,Operario de línea,Operativo,Diurno,2024-04-04,2026-03-17,Renuncia voluntaria,18,6.2,0.83,3,3232.0
+C0538,Producción,Auxiliar de producción,Operativo,Rotativo,2024-04-05,2024-11-14,Renuncia voluntaria,33,4.5,0.93,3,3482.0
+C0539,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2024-04-15,2024-11-26,Desvinculación,33,4.3,0.85,2,5746.0
+C0540,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2024-04-21,2025-02-11,Desvinculación,34,2.2,1.0,2,6760.0
+C0541,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-04-22,,,28,8.1,0.96,3,3888.0
+C0542,Producción,Auxiliar de producción,Operativo,Diurno,2024-04-23,2025-03-20,Renuncia voluntaria,25,14.9,0.92,3,3444.0
+C0543,Ventas,Mercaderista,Operativo,Diurno,2024-04-24,2026-03-07,Renuncia voluntaria,29,3.5,1.06,3,4127.0
+C0544,Ventas,Mercaderista,Operativo,Diurno,2024-04-28,2024-06-13,Renuncia voluntaria,20,23.3,1.08,2,4044.0
+C0545,Producción,Operario de línea,Operativo,Rotativo,2024-05-07,2025-08-11,Renuncia voluntaria,35,3.3,1.1,4,4283.0
+C0546,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2024-05-10,2024-06-24,Renuncia voluntaria,29,3.7,0.87,2,3257.0
+C0547,Ventas,Mercaderista,Operativo,Diurno,2024-05-14,2025-07-08,Renuncia voluntaria,25,9.5,0.87,2,3388.0
+C0548,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2024-05-16,2024-10-16,Renuncia voluntaria,20,7.1,1.03,3,3856.0
+C0549,Ventas,Preventista,Operativo,Diurno,2024-05-20,2025-08-02,Renuncia voluntaria,20,22.2,0.97,2,3777.0
+C0550,Producción,Operario de línea,Operativo,Diurno,2024-05-26,,,18,4.4,0.97,4,3928.0
+C0551,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-06-01,2024-12-16,Renuncia voluntaria,29,5.5,0.94,3,3519.0
+C0552,Producción,Operador de llenadora,Operativo,Rotativo,2024-06-08,2024-10-26,Renuncia voluntaria,23,15.2,1.08,3,4044.0
+C0553,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2024-06-09,2025-09-08,Renuncia voluntaria,33,10.2,0.93,3,6538.0
+C0554,Producción,Operador de llenadora,Operativo,Diurno,2024-06-14,2024-09-25,Renuncia voluntaria,34,13.0,0.97,2,3632.0
+C0555,Producción,Operario de línea,Operativo,Diurno,2024-06-15,2024-09-19,Renuncia voluntaria,30,9.6,0.99,4,3707.0
+C0556,Producción,Auxiliar de producción,Operativo,Rotativo,2024-06-20,2025-08-30,Desvinculación,22,11.0,1.01,2,3933.0
+C0557,Ventas,Preventista,Operativo,Diurno,2024-06-25,2024-11-17,Renuncia voluntaria,28,8.9,1.02,4,3819.0
+C0558,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2024-07-01,,,27,5.2,1.11,3,4495.0
+C0559,Producción,Supervisor de turno,Técnico y supervisión,Rotativo,2024-07-05,2024-10-05,Renuncia voluntaria,28,4.7,0.82,3,5543.0
+C0560,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2024-07-06,,,33,15.2,1.08,2,7897.0
+C0561,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Diurno,2024-07-06,,,32,13.9,0.94,3,6873.0
+C0562,Ventas,Mercaderista,Operativo,Diurno,2024-07-06,2024-09-24,Renuncia voluntaria,33,7.8,1.04,3,3894.0
+C0563,Producción,Auxiliar de producción,Operativo,Rotativo,2024-07-12,2024-11-25,Renuncia voluntaria,25,4.4,0.88,3,3295.0
+C0564,Producción,Operario de línea,Operativo,Rotativo,2024-07-14,2024-12-16,Renuncia voluntaria,18,14.1,0.93,3,3482.0
+C0565,Ventas,Preventista,Operativo,Diurno,2024-07-16,2026-06-19,Renuncia voluntaria,28,5.9,0.96,3,3888.0
+C0566,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-07-16,,,23,7.9,0.84,3,3402.0
+C0567,Ventas,Mercaderista,Operativo,Diurno,2024-07-21,2024-10-29,Renuncia voluntaria,35,6.9,1.06,3,3969.0
+C0568,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-07-26,,,20,14.0,0.96,3,3888.0
+C0569,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2024-07-26,,,18,6.9,1.0,4,4050.0
+C0570,Ventas,Preventista,Operativo,Diurno,2024-07-26,2024-09-23,Renuncia voluntaria,23,3.7,0.9,3,3370.0
+C0571,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2024-07-28,2024-10-21,Renuncia voluntaria,25,7.8,0.96,2,3594.0
+C0572,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2024-08-02,2025-12-10,Renuncia voluntaria,32,27.3,1.02,3,7171.0
+C0573,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2024-08-05,,,28,5.7,0.83,4,3361.0
+C0574,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2024-08-05,,,28,5.7,1.03,3,7531.0
+C0575,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-08-08,2026-05-02,Renuncia voluntaria,27,5.1,1.05,2,4252.0
+C0576,Producción,Auxiliar de producción,Operativo,Rotativo,2024-08-08,2025-04-03,Renuncia voluntaria,32,17.6,0.92,4,3444.0
+C0577,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2024-08-13,2025-08-13,Renuncia voluntaria,26,6.3,1.0,3,3894.0
+C0578,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-08-15,2026-04-07,Renuncia voluntaria,27,5.4,1.18,5,4595.0
+C0579,Ventas,Mercaderista,Operativo,Diurno,2024-08-19,,,35,4.5,1.05,3,4252.0
+C0580,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-08-24,,,18,9.1,1.05,4,4252.0
+C0581,Ventas,Preventista,Operativo,Diurno,2024-08-24,2024-12-26,Renuncia voluntaria,32,11.3,0.98,3,3669.0
+C0582,Producción,Operador de llenadora,Operativo,Diurno,2024-09-04,2024-11-21,Renuncia voluntaria,24,11.1,1.02,3,3819.0
+C0583,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2024-09-05,,,34,3.1,0.92,5,6727.0
+C0584,Producción,Auxiliar de producción,Operativo,Rotativo,2024-09-13,,,22,31.2,0.94,3,3807.0
+C0585,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-09-23,2025-08-11,Renuncia voluntaria,18,5.2,1.06,2,4127.0
+C0586,Producción,Auxiliar de producción,Operativo,Diurno,2024-10-02,2025-06-26,Renuncia voluntaria,22,11.3,0.94,3,3660.0
+C0587,Producción,Operario de línea,Operativo,Diurno,2024-10-02,2026-08-28,Desvinculación,26,25.0,1.04,4,4211.0
+C0588,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2024-10-11,,,36,10.9,0.9,3,6580.0
+C0589,Producción,Operador de llenadora,Operativo,Diurno,2024-10-12,2025-07-03,Renuncia voluntaria,21,18.3,0.88,2,3427.0
+C0590,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-10-13,2026-08-11,Renuncia voluntaria,36,5.6,0.9,2,3645.0
+C0591,Calidad,Inspector de calidad,Operativo,Diurno,2024-10-15,2025-07-11,Renuncia voluntaria,26,11.5,1.03,3,4011.0
+C0592,Ventas,Mercaderista,Operativo,Diurno,2024-10-18,,,34,7.8,0.99,3,4009.0
+C0593,Ventas,Analista comercial,Profesional y jefatura,Diurno,2024-10-19,,,45,28.7,1.02,3,14342.0
+C0594,Producción,Operario de línea,Operativo,Diurno,2024-10-20,,,26,10.7,0.96,3,3888.0
+C0595,Producción,Operador de llenadora,Operativo,Rotativo,2024-10-21,,,25,24.9,0.99,5,4009.0
+C0596,Ventas,Preventista,Operativo,Diurno,2024-10-21,,,35,3.1,0.94,3,3807.0
+C0597,Producción,Operador de llenadora,Operativo,Diurno,2024-10-24,,,30,9.5,0.94,3,3807.0
+C0598,Producción,Operario de línea,Operativo,Rotativo,2024-10-25,,,18,12.3,1.01,1,4090.0
+C0599,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Diurno,2024-10-26,,,41,3.6,0.9,2,12655.0
+C0600,Ventas,Mercaderista,Operativo,Diurno,2024-10-27,,,26,6.8,0.97,4,3928.0
+C0601,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2024-11-03,2026-09-22,Renuncia voluntaria,26,4.1,1.02,4,7458.0
+C0602,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2024-11-07,2026-05-08,Renuncia voluntaria,32,5.3,0.95,3,3847.0
+C0603,Producción,Jefe de producción,Profesional y jefatura,Diurno,2024-11-08,,,24,5.2,1.02,3,14342.0
+C0604,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-11-10,,,34,3.1,1.04,4,4211.0
+C0605,Calidad,Inspector de calidad,Operativo,Diurno,2024-11-10,,,28,14.2,1.0,3,4050.0
+C0606,Producción,Operario de línea,Operativo,Diurno,2024-11-12,2025-08-16,Renuncia voluntaria,21,9.2,1.16,3,4517.0
+C0607,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-11-14,2025-01-15,Renuncia voluntaria,22,2.3,1.11,2,4156.0
+C0608,Ventas,Mercaderista,Operativo,Diurno,2024-11-16,,,19,10.8,1.04,4,4211.0
+C0609,Producción,Operario de línea,Operativo,Diurno,2024-11-17,,,26,13.0,0.89,3,3604.0
+C0610,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2024-11-19,2025-10-28,Renuncia voluntaria,25,4.9,1.0,2,7030.0
+C0611,Producción,Auxiliar de producción,Operativo,Diurno,2024-11-23,2025-04-07,Renuncia voluntaria,32,13.3,0.84,3,3145.0
+C0612,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2024-11-23,2025-03-06,Renuncia voluntaria,35,5.0,1.07,3,4006.0
+C0613,Producción,Auxiliar de producción,Operativo,Diurno,2024-11-28,2025-04-26,Renuncia voluntaria,27,13.4,0.8,3,2995.0
+C0614,Producción,Operador de llenadora,Operativo,Rotativo,2024-12-04,2025-01-11,Renuncia voluntaria,20,15.2,0.8,4,2995.0
+C0615,Producción,Operario de línea,Operativo,Rotativo,2024-12-05,2025-05-22,Renuncia voluntaria,32,13.7,1.12,4,4361.0
+C0616,Producción,Operador de llenadora,Operativo,Rotativo,2024-12-09,,,30,4.9,0.99,4,4009.0
+C0617,Producción,Ingeniero de procesos,Profesional y jefatura,Diurno,2024-12-10,,,29,8.2,0.89,3,12514.0
+C0618,Administración y Finanzas,Cajero,Operativo,Diurno,2024-12-10,2025-11-03,Renuncia voluntaria,30,4.5,0.91,5,3543.0
+C0619,Producción,Auxiliar de producción,Operativo,Rotativo,2024-12-14,2025-04-04,Renuncia voluntaria,20,5.4,0.96,3,3594.0
+C0620,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-12-15,2025-01-13,Renuncia voluntaria,37,7.8,1.04,4,3894.0
+C0621,Producción,Operario de línea,Operativo,Rotativo,2024-12-16,,,32,5.1,1.03,3,4171.0
+C0622,Producción,Operario de línea,Operativo,Diurno,2024-12-19,2025-08-24,Renuncia voluntaria,24,5.5,0.91,2,3543.0
+C0623,Producción,Operario de línea,Operativo,Rotativo,2024-12-20,2025-06-20,Renuncia voluntaria,29,9.6,0.97,2,3777.0
+C0624,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2024-12-24,,,40,7.3,1.09,3,7970.0
+C0625,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-12-25,,,26,8.6,0.98,2,3969.0
+C0626,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2024-12-25,2026-01-25,Renuncia voluntaria,48,14.5,0.93,3,3621.0
+C0627,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2024-12-26,,,31,7.8,1.04,4,4211.0
+C0628,Producción,Operario de línea,Operativo,Diurno,2024-12-26,2025-12-22,Renuncia voluntaria,31,6.5,1.02,4,3972.0
+C0629,Producción,Operador de llenadora,Operativo,Diurno,2024-12-26,,,18,8.8,1.01,3,4090.0
+C0630,Ventas,Mercaderista,Operativo,Diurno,2024-12-26,2025-12-17,Renuncia voluntaria,22,12.9,1.0,3,3894.0
+C0631,Producción,Auxiliar de producción,Operativo,Rotativo,2024-12-28,,,20,4.1,1.02,3,4131.0
+C0632,Ventas,Preventista,Operativo,Diurno,2025-01-06,,,23,2.8,1.07,3,4333.0
+C0633,Calidad,Inspector de calidad,Operativo,Rotativo,2025-01-10,,,29,4.4,1.0,3,4050.0
+C0634,Producción,Auxiliar de producción,Operativo,Rotativo,2025-01-14,,,21,18.5,1.01,4,4090.0
+C0635,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-01-15,2025-04-07,Renuncia voluntaria,27,19.8,0.87,4,3257.0
+C0636,Producción,Auxiliar de producción,Operativo,Rotativo,2025-01-16,2025-07-29,Renuncia voluntaria,31,13.5,1.01,2,3933.0
+C0637,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-01-22,2025-07-05,Renuncia voluntaria,18,8.0,0.84,3,3271.0
+C0638,Mantenimiento,Ayudante de mantenimiento,Operativo,Diurno,2025-01-25,,,29,5.2,1.0,3,4050.0
+C0639,Producción,Operador de llenadora,Operativo,Diurno,2025-01-26,2025-02-19,Renuncia voluntaria,19,10.8,0.88,3,3295.0
+C0640,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-01-28,2025-02-22,Renuncia voluntaria,22,8.7,0.96,4,3594.0
+C0641,Producción,Operador de llenadora,Operativo,Rotativo,2025-02-03,2025-07-05,Renuncia voluntaria,24,21.1,0.87,3,3388.0
+C0642,Ventas,Mercaderista,Operativo,Diurno,2025-02-03,,,22,5.0,1.07,3,4333.0
+C0643,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-02-14,,,37,17.8,1.0,3,4050.0
+C0644,Producción,Operador de llenadora,Operativo,Rotativo,2025-02-18,,,29,12.4,0.99,3,4009.0
+C0645,Ventas,Preventista,Operativo,Diurno,2025-02-21,2025-10-19,Renuncia voluntaria,29,10.0,1.07,1,4166.0
+C0646,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2025-02-22,2026-01-26,Renuncia voluntaria,31,9.6,0.97,3,3777.0
+C0647,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2025-02-22,2026-03-17,Renuncia voluntaria,32,18.9,1.0,3,3894.0
+C0648,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-02-24,2025-12-21,Renuncia voluntaria,18,22.2,0.96,5,3738.0
+C0649,Producción,Operador de llenadora,Operativo,Diurno,2025-03-03,,,38,8.3,0.82,4,3321.0
+C0650,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2025-03-06,,,35,7.5,0.98,4,7165.0
+C0651,Producción,Operario de línea,Operativo,Rotativo,2025-03-10,,,29,13.9,0.96,3,3888.0
+C0652,Logística y Distribución,Jefe de logística,Profesional y jefatura,Diurno,2025-03-11,,,35,7.4,0.99,4,13920.0
+C0653,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-03-14,2025-09-28,Renuncia voluntaria,31,5.2,0.8,4,3115.0
+C0654,Producción,Auxiliar de producción,Operativo,Rotativo,2025-03-14,2025-05-13,Renuncia voluntaria,18,8.9,1.0,3,3894.0
+C0655,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2025-03-18,,,20,7.3,1.09,4,7970.0
+C0656,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-03-18,2025-07-06,Renuncia voluntaria,18,10.0,0.9,3,3504.0
+C0657,Producción,Operario de línea,Operativo,Diurno,2025-03-20,2025-05-02,Renuncia voluntaria,18,10.7,1.11,3,4322.0
+C0658,Ventas,Preventista,Operativo,Diurno,2025-03-23,,,21,3.5,1.01,3,4090.0
+C0659,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-03-24,2025-10-02,Renuncia voluntaria,19,23.6,0.85,4,3310.0
+C0660,Producción,Operario de línea,Operativo,Rotativo,2025-04-01,2025-09-15,Renuncia voluntaria,21,5.1,0.9,2,3504.0
+C0661,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2025-04-07,2025-06-04,Desvinculación,36,5.1,1.05,4,7382.0
+C0662,Producción,Operario de línea,Operativo,Diurno,2025-04-16,2026-02-12,Desvinculación,30,23.6,0.94,4,3660.0
+C0663,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2025-04-16,2025-08-30,Renuncia voluntaria,25,2.8,1.01,3,3933.0
+C0664,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-04-20,,,22,4.9,1.07,3,4333.0
+C0665,Producción,Operador de llenadora,Operativo,Rotativo,2025-04-24,,,32,10.6,0.96,4,3888.0
+C0666,Producción,Operario de línea,Operativo,Diurno,2025-05-07,2026-03-02,Renuncia voluntaria,28,5.5,0.92,5,3582.0
+C0667,Producción,Auxiliar de producción,Operativo,Rotativo,2025-05-13,,,27,6.3,1.05,2,4252.0
+C0668,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-05-16,,,35,4.7,0.92,2,3726.0
+C0669,Producción,Operador de llenadora,Operativo,Rotativo,2025-05-21,,,31,9.3,1.1,4,4454.0
+C0670,Producción,Operario de línea,Operativo,Rotativo,2025-05-27,,,27,5.5,1.22,4,4940.0
+C0671,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2025-05-27,2025-10-05,Renuncia voluntaria,18,14.0,0.8,3,3115.0
+C0672,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2025-05-27,,,29,8.8,0.98,3,3969.0
+C0673,Producción,Operador de llenadora,Operativo,Diurno,2025-06-07,2026-04-06,Desvinculación,20,10.5,0.93,4,3621.0
+C0674,Producción,Operario de línea,Operativo,Rotativo,2025-06-08,,,26,4.1,1.02,3,4131.0
+C0675,Producción,Operador de llenadora,Operativo,Rotativo,2025-06-16,,,18,4.7,1.06,3,4292.0
+C0676,Producción,Operador de llenadora,Operativo,Rotativo,2025-06-18,,,25,4.0,0.8,2,3240.0
+C0677,Producción,Operario de línea,Operativo,Rotativo,2025-06-19,,,34,4.9,0.97,3,3928.0
+C0678,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2025-07-02,,,25,3.4,1.2,4,4859.0
+C0679,Producción,Operario de línea,Operativo,Rotativo,2025-07-03,2025-12-21,Renuncia voluntaria,18,21.4,1.06,5,4127.0
+C0680,Producción,Operario de línea,Operativo,Rotativo,2025-07-05,,,30,8.5,1.07,5,4333.0
+C0681,Producción,Operario de línea,Operativo,Rotativo,2025-07-07,,,29,3.3,1.05,4,4252.0
+C0682,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-07-12,2025-11-27,Renuncia voluntaria,29,18.2,0.97,3,3777.0
+C0683,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2025-07-15,,,30,2.9,1.11,4,8116.0
+C0684,Producción,Operario de línea,Operativo,Rotativo,2025-07-16,2025-09-19,Renuncia voluntaria,26,11.4,1.07,3,4166.0
+C0685,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-07-24,,,25,7.2,1.12,4,4535.0
+C0686,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2025-08-01,,,20,3.6,1.08,3,4373.0
+C0687,Calidad,Analista de laboratorio,Técnico y supervisión,Rotativo,2025-08-06,,,33,6.3,0.98,2,7165.0
+C0688,Ventas,Preventista,Operativo,Diurno,2025-08-07,,,30,10.7,0.92,3,3726.0
+C0689,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-08-07,,,25,8.6,1.01,5,4090.0
+C0690,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-08-07,,,23,6.5,1.11,3,4495.0
+C0691,Calidad,Inspector de calidad,Operativo,Rotativo,2025-08-11,,,22,9.1,0.93,3,3766.0
+C0692,Producción,Operador de llenadora,Operativo,Diurno,2025-08-12,2025-11-23,Renuncia voluntaria,28,7.4,0.94,3,3660.0
+C0693,Producción,Operario de línea,Operativo,Rotativo,2025-08-12,,,26,9.5,1.09,4,4414.0
+C0694,Calidad,Inspector de calidad,Operativo,Diurno,2025-08-14,,,22,8.7,1.1,4,4454.0
+C0695,Producción,Operario de línea,Operativo,Diurno,2025-08-16,2026-07-04,Renuncia voluntaria,30,4.9,0.9,4,3645.0
+C0696,Calidad,Inspector de calidad,Operativo,Diurno,2025-08-18,,,32,5.8,0.86,3,3483.0
+C0697,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-08-25,2025-09-25,Desvinculación,20,6.5,0.99,2,3855.0
+C0698,Calidad,Analista de laboratorio,Técnico y supervisión,Rotativo,2025-08-27,2025-09-10,Renuncia voluntaria,31,9.3,0.92,3,6468.0
+C0699,Producción,Operario de línea,Operativo,Rotativo,2025-08-28,,,25,3.6,0.93,5,3766.0
+C0700,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2025-09-09,2026-03-03,Renuncia voluntaria,28,10.1,1.01,4,3933.0
+C0701,Producción,Operario de línea,Operativo,Rotativo,2025-09-15,2025-12-15,Renuncia voluntaria,39,7.9,0.97,4,3777.0
+C0702,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-09-18,,,30,13.3,1.06,3,4292.0
+C0703,Producción,Auxiliar de producción,Operativo,Rotativo,2025-09-21,2026-05-03,Renuncia voluntaria,33,24.4,0.99,5,4009.0
+C0704,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-09-21,,,18,5.6,1.15,2,4657.0
+C0705,Producción,Operador de llenadora,Operativo,Rotativo,2025-09-23,,,29,10.5,0.96,3,3888.0
+C0706,Producción,Operario de línea,Operativo,Rotativo,2025-09-24,,,21,13.1,0.9,3,3645.0
+C0707,Producción,Operario de línea,Operativo,Rotativo,2025-09-26,,,27,7.9,0.91,3,3685.0
+C0708,Ventas,Mercaderista,Operativo,Diurno,2025-09-27,,,24,6.6,0.93,3,3766.0
+C0709,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-10-02,,,30,6.9,1.08,4,4373.0
+C0710,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2025-10-04,,,33,10.4,1.16,5,8481.0
+C0711,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Diurno,2025-10-05,,,22,16.2,1.0,3,7312.0
+C0712,Producción,Operador de llenadora,Operativo,Rotativo,2025-10-06,,,32,15.3,0.9,4,3645.0
+C0713,Producción,Auxiliar de producción,Operativo,Diurno,2025-10-07,,,18,7.0,0.95,4,3847.0
+C0714,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2025-10-08,2026-06-28,Renuncia voluntaria,39,14.3,0.95,2,3847.0
+C0715,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-10-08,,,21,4.6,0.96,2,3888.0
+C0716,Producción,Auxiliar de producción,Operativo,Diurno,2025-10-09,2025-12-08,Desvinculación,38,6.6,0.98,4,3816.0
+C0717,Producción,Operador de llenadora,Operativo,Rotativo,2025-10-16,,,24,15.2,1.1,4,4454.0
+C0718,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2025-10-17,,,37,9.6,0.99,5,7238.0
+C0719,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-10-21,,,23,12.2,0.93,3,3766.0
+C0720,Producción,Auxiliar de producción,Operativo,Rotativo,2025-10-23,,,18,7.2,1.0,4,4050.0
+C0721,Producción,Auxiliar de producción,Operativo,Diurno,2025-10-24,2025-11-20,Renuncia voluntaria,18,10.9,1.02,3,3972.0
+C0722,Ventas,Preventista,Operativo,Diurno,2025-10-26,,,28,6.6,0.92,3,3726.0
+C0723,Producción,Operario de línea,Operativo,Rotativo,2025-10-26,2026-04-02,Desvinculación,25,7.0,0.94,4,3660.0
+C0724,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2025-11-02,2026-09-20,Renuncia voluntaria,28,9.7,0.88,3,3564.0
+C0725,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Diurno,2025-11-02,,,34,3.6,1.07,4,7823.0
+C0726,Ventas,Preventista,Operativo,Diurno,2025-11-07,2026-09-21,Renuncia voluntaria,20,2.7,1.01,4,4090.0
+C0727,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2025-11-09,2026-07-08,Renuncia voluntaria,21,3.6,0.99,4,4009.0
+C0728,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-11-09,2026-09-03,Renuncia voluntaria,23,13.3,0.98,2,3969.0
+C0729,Producción,Auxiliar de producción,Operativo,Rotativo,2025-11-15,,,18,16.0,1.02,2,4131.0
+C0730,Producción,Auxiliar de producción,Operativo,Rotativo,2025-11-18,,,38,7.5,0.99,5,4009.0
+C0731,Ventas,Preventista,Operativo,Diurno,2025-11-19,2026-09-01,Renuncia voluntaria,22,8.5,1.0,4,4050.0
+C0732,Ventas,Mercaderista,Operativo,Diurno,2025-11-23,,,27,4.5,0.87,5,3523.0
+C0733,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-11-25,,,35,9.8,1.03,3,4171.0
+C0734,Administración y Finanzas,Cajero,Operativo,Diurno,2025-12-01,,,32,13.1,0.91,3,3685.0
+C0735,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2025-12-02,2026-09-12,Renuncia voluntaria,27,8.2,0.94,3,3807.0
+C0736,Producción,Auxiliar de producción,Operativo,Rotativo,2025-12-06,2026-05-03,Renuncia voluntaria,27,4.9,0.93,4,3766.0
+C0737,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2025-12-08,2026-01-14,Renuncia voluntaria,25,5.2,1.05,3,4088.0
+C0738,Administración y Finanzas,Cajero,Operativo,Diurno,2025-12-09,,,27,11.2,0.99,3,4009.0
+C0739,Producción,Auxiliar de producción,Operativo,Diurno,2025-12-10,,,38,3.7,1.07,4,4333.0
+C0740,Producción,Operario de línea,Operativo,Rotativo,2025-12-16,,,21,6.5,0.92,4,3726.0
+C0741,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Rotativo,2025-12-20,,,37,8.4,1.02,3,7458.0
+C0742,Producción,Operario de línea,Operativo,Rotativo,2025-12-20,2026-09-24,Renuncia voluntaria,26,14.9,0.91,4,3685.0
+C0743,Producción,Auxiliar de producción,Operativo,Rotativo,2025-12-23,,,21,24.5,1.04,4,4211.0
+C0744,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2025-12-24,,,22,6.8,0.98,3,3969.0
+C0745,Producción,Operador de llenadora,Operativo,Diurno,2025-12-25,,,20,9.6,1.04,4,4211.0
+C0746,Producción,Operario de línea,Operativo,Diurno,2025-12-27,,,33,14.7,0.99,3,4009.0
+C0747,Ventas,Preventista,Operativo,Diurno,2026-01-03,2026-05-25,Renuncia voluntaria,21,8.2,0.91,3,3685.0
+C0748,Producción,Auxiliar de producción,Operativo,Rotativo,2026-01-05,2026-07-28,Renuncia voluntaria,36,9.6,0.87,2,3523.0
+C0749,Producción,Operador de llenadora,Operativo,Diurno,2026-01-08,,,34,8.6,1.0,3,4050.0
+C0750,Ventas,Preventista,Operativo,Diurno,2026-01-12,2026-02-19,Renuncia voluntaria,27,13.0,1.08,3,4205.0
+C0751,Producción,Auxiliar de producción,Operativo,Rotativo,2026-01-15,,,21,5.1,1.05,3,4252.0
+C0752,Producción,Operario de línea,Operativo,Diurno,2026-01-17,,,31,7.1,0.95,3,3847.0
+C0753,Producción,Operario de línea,Operativo,Diurno,2026-01-17,,,32,24.5,0.86,5,3483.0
+C0754,Producción,Auxiliar de producción,Operativo,Diurno,2026-01-18,,,26,10.1,0.96,3,3888.0
+C0755,Ventas,Supervisor de ventas,Técnico y supervisión,Diurno,2026-01-27,,,31,7.2,1.03,3,7531.0
+C0756,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2026-01-27,2026-03-18,Renuncia voluntaria,28,4.0,0.93,4,3621.0
+C0757,Producción,Auxiliar de producción,Operativo,Rotativo,2026-02-10,,,26,10.8,0.98,4,3969.0
+C0758,Mantenimiento,Técnico mecánico,Técnico y supervisión,Rotativo,2026-02-11,,,34,3.8,1.0,3,7312.0
+C0759,Mantenimiento,Ayudante de mantenimiento,Operativo,Rotativo,2026-02-18,,,25,6.4,0.97,3,3928.0
+C0760,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2026-02-26,2026-06-30,Renuncia voluntaria,33,9.9,0.99,3,4009.0
+C0761,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2026-02-26,,,20,5.6,0.94,3,3807.0
+C0762,Calidad,Analista de laboratorio,Técnico y supervisión,Diurno,2026-02-28,,,39,6.6,1.02,2,7458.0
+C0763,Producción,Operador de llenadora,Operativo,Rotativo,2026-03-03,,,21,5.9,0.89,2,3604.0
+C0764,Producción,Operario de línea,Operativo,Rotativo,2026-03-09,,,23,4.5,0.98,4,3969.0
+C0765,Ventas,Preventista,Operativo,Diurno,2026-03-15,,,30,8.3,0.89,3,3604.0
+C0766,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2026-03-19,2026-09-18,Renuncia voluntaria,30,8.0,0.92,4,3726.0
+C0767,Producción,Operador de llenadora,Operativo,Diurno,2026-04-02,,,19,7.3,0.94,4,3807.0
+C0768,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2026-04-05,,,26,6.4,1.02,5,4131.0
+C0769,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2026-04-08,2026-06-11,Renuncia voluntaria,24,16.5,1.04,4,4211.0
+C0770,Producción,Operario de línea,Operativo,Rotativo,2026-04-09,,,30,6.0,0.93,2,3766.0
+C0771,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2026-04-10,2026-08-14,Renuncia voluntaria,30,7.3,0.97,3,3928.0
+C0772,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2026-04-10,,,32,8.9,0.87,4,3523.0
+C0773,Producción,Operario de línea,Operativo,Rotativo,2026-04-13,,,23,5.5,0.89,3,3604.0
+C0774,Producción,Operario de línea,Operativo,Rotativo,2026-04-14,2026-08-29,Renuncia voluntaria,33,7.7,1.07,1,4333.0
+C0775,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2026-04-16,2026-06-18,Renuncia voluntaria,25,6.4,1.22,3,4940.0
+C0776,Ventas,Preventista,Operativo,Diurno,2026-04-17,,,25,15.6,0.93,3,3766.0
+C0777,Mantenimiento,Técnico mecánico,Técnico y supervisión,Diurno,2026-04-21,,,23,5.4,0.92,4,6727.0
+C0778,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2026-04-23,2026-08-24,Renuncia voluntaria,32,3.5,0.85,4,3442.0
+C0779,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2026-04-23,,,21,9.9,1.04,3,4211.0
+C0780,Ventas,Mercaderista,Operativo,Diurno,2026-04-24,2026-07-09,Renuncia voluntaria,29,11.3,1.0,5,4050.0
+C0781,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2026-04-24,2026-05-22,Renuncia voluntaria,27,7.0,0.88,2,3564.0
+C0782,Administración y Finanzas,Cajero,Operativo,Diurno,2026-04-26,,,18,4.0,1.0,3,4050.0
+C0783,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2026-04-28,2026-06-12,Renuncia voluntaria,32,9.3,1.0,4,4050.0
+C0784,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2026-05-08,,,18,5.0,1.01,4,4090.0
+C0785,Producción,Operador de llenadora,Operativo,Diurno,2026-05-10,2026-06-14,Renuncia voluntaria,36,17.1,0.96,4,3888.0
+C0786,Ventas,Preventista,Operativo,Diurno,2026-05-11,2026-07-11,Renuncia voluntaria,21,6.2,0.95,3,3847.0
+C0787,Producción,Operario de línea,Operativo,Rotativo,2026-05-12,,,27,16.6,0.93,3,3766.0
+C0788,Producción,Operario de línea,Operativo,Rotativo,2026-05-13,,,25,4.6,1.04,3,4211.0
+C0789,Producción,Auxiliar de producción,Operativo,Rotativo,2026-05-17,2026-08-17,Desvinculación,30,35.0,1.0,4,4050.0
+C0790,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2026-05-24,2026-06-05,Renuncia voluntaria,18,3.0,0.92,3,3726.0
+C0791,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2026-05-24,,,18,17.2,1.03,4,4171.0
+C0792,Calidad,Inspector de calidad,Operativo,Diurno,2026-05-26,,,24,7.0,0.8,3,3240.0
+C0793,Ventas,Mercaderista,Operativo,Diurno,2026-06-02,2026-08-11,Renuncia voluntaria,29,17.1,1.0,5,4050.0
+C0794,Producción,Operador de llenadora,Operativo,Diurno,2026-06-05,,,27,14.8,1.0,3,4050.0
+C0795,Producción,Operador de llenadora,Operativo,Diurno,2026-06-08,,,36,3.1,0.99,2,4009.0
+C0796,Ventas,Mercaderista,Operativo,Diurno,2026-06-10,2026-09-20,Desvinculación,30,7.5,1.07,4,4333.0
+C0797,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2026-06-16,2026-09-14,Renuncia voluntaria,41,10.9,0.87,2,3523.0
+C0798,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2026-06-16,2026-09-01,Renuncia voluntaria,18,2.3,0.87,3,3523.0
+C0799,Producción,Auxiliar de producción,Operativo,Rotativo,2026-06-22,,,30,12.3,0.88,3,3564.0
+C0800,Producción,Auxiliar de producción,Operativo,Diurno,2026-06-23,,,25,4.1,0.8,3,3240.0
+C0801,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2026-06-23,2026-07-09,Renuncia voluntaria,18,13.2,0.84,3,3402.0
+C0802,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2026-06-25,,,51,8.4,0.8,5,3240.0
+C0803,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2026-07-01,,,28,4.5,1.04,3,4211.0
+C0804,Producción,Operador de llenadora,Operativo,Diurno,2026-07-01,,,35,7.1,0.92,2,3726.0
+C0805,Logística y Distribución,Chofer repartidor,Operativo,Rotativo,2026-07-02,,,31,8.6,0.9,4,3645.0
+C0806,Producción,Operador de llenadora,Operativo,Diurno,2026-07-02,,,32,5.0,0.96,4,3888.0
+C0807,Ventas,Preventista,Operativo,Diurno,2026-07-03,,,25,8.9,0.99,4,4009.0
+C0808,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2026-07-09,,,25,5.8,0.93,3,3766.0
+C0809,Logística y Distribución,Auxiliar de almacén,Operativo,Rotativo,2026-07-10,2026-09-16,Renuncia voluntaria,24,10.5,0.8,3,3240.0
+C0810,Producción,Operario de línea,Operativo,Diurno,2026-07-11,,,30,8.2,0.9,3,3645.0
+C0811,Ventas,Mercaderista,Operativo,Diurno,2026-07-13,,,22,10.7,0.85,2,3442.0
+C0812,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2026-07-17,,,24,19.6,0.95,4,3847.0
+C0813,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2026-07-17,,,30,8.5,1.02,3,4131.0
+C0814,Administración y Finanzas,Auxiliar administrativo,Operativo,Diurno,2026-07-25,,,35,5.7,0.97,3,3928.0
+C0815,Ventas,Mercaderista,Operativo,Diurno,2026-08-01,,,18,7.5,0.87,3,3523.0
+C0816,Ventas,Mercaderista,Operativo,Diurno,2026-08-03,,,44,20.3,0.97,4,3928.0
+C0817,Producción,Operario de línea,Operativo,Rotativo,2026-08-07,,,28,6.9,1.01,4,4090.0
+C0818,Logística y Distribución,Ayudante de reparto,Operativo,Rotativo,2026-08-23,,,18,8.7,0.95,4,3847.0
+C0819,Producción,Operador de llenadora,Operativo,Rotativo,2026-08-24,,,30,13.6,1.01,3,4090.0
+C0820,Logística y Distribución,Chofer repartidor,Operativo,Diurno,2026-08-27,,,18,27.1,1.03,3,4171.0
+C0821,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2026-09-01,,,34,11.2,0.95,3,3847.0
+C0822,Producción,Operador de llenadora,Operativo,Rotativo,2026-09-01,,,35,22.3,1.09,4,4414.0
+C0823,Producción,Operario de línea,Operativo,Rotativo,2026-09-02,,,29,3.5,0.83,2,3361.0
+C0824,Producción,Operador de llenadora,Operativo,Rotativo,2026-09-04,,,24,4.9,1.0,3,4050.0
+C0825,Ventas,Preventista,Operativo,Diurno,2026-09-04,,,28,8.8,1.0,3,4050.0
+C0826,Producción,Supervisor de turno,Técnico y supervisión,Diurno,2026-09-07,,,24,8.9,1.03,5,7531.0
+C0827,Ventas,Preventista,Operativo,Diurno,2026-09-09,,,26,13.3,0.99,3,4009.0
+C0828,Producción,Operador de llenadora,Operativo,Rotativo,2026-09-11,,,22,5.9,0.87,3,3523.0
+C0829,Logística y Distribución,Ayudante de reparto,Operativo,Diurno,2026-09-23,,,21,11.0,1.14,3,4616.0
+C0830,Logística y Distribución,Auxiliar de almacén,Operativo,Diurno,2026-09-28,,,29,13.9,0.96,1,3888.0
