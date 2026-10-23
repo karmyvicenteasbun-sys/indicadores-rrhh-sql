@@ -2,6 +2,8 @@
 
 **Indicadores de RRHH en SQL.** Una base SQLite normalizada con colaboradores, planilla mensual y cada ausencia con su fecha, más 9 consultas que responden preguntas de gestión: dotación, rotación, ausentismo, su costo en bolivianos y alertas de sobrecarga. Las consultas usan CTE, funciones de ventana, agregación condicional y la técnica de huecos e islas.
 
+También tiene una [versión para SQL Server](#versión-sql-server-t-sql): el mismo esquema con tipos `DATE` y `DECIMAL`, las 9 consultas en T-SQL, procedimientos almacenados con parámetros y una vista lista para conectar Power BI.
+
 ![El ausentismo cuesta Bs 919 mil al año; la mitad es cubrir los puestos](img/01_costo_ausentismo.png)
 
 > **Datos ficticios.** Corresponden a una embotelladora mediana de unos 500 colaboradores, entre octubre de 2023 y septiembre de 2026. Son los mismos datos de los proyectos [Costo de la rotación](https://github.com/karmyvicenteasbun-sys/costo-rotacion-people-analytics) y [Dashboard de costos de personal](https://github.com/karmyvicenteasbun-sys/dashboard-costos-personal-powerbi), más el detalle de las 8.549 ausencias. No describen a ninguna empresa real.
@@ -143,6 +145,7 @@ El esquema (`sql/00_esquema.sql`) tiene claves foráneas, restricciones `CHECK` 
 ```
 ├── sql/00_esquema.sql          tablas, restricciones, índices y vista
 ├── consultas/                  las 9 consultas, comentadas
+├── sql_server/                 versión T-SQL: esquema, carga, procedimientos, 9 consultas y prueba
 ├── crear_base.py               crea rrhh.db a partir de los CSV y controla la integridad
 ├── ejecutar_consultas.py       corre las consultas, guarda los resultados y arma los gráficos
 ├── generar_datos.py            genera colaboradores y planilla (semilla fija)
@@ -163,13 +166,57 @@ python ejecutar_consultas.py     # crea rrhh.db si no existe y corre las 9 consu
 
 Las consultas también se pueden abrir y ejecutar en DB Browser for SQLite o DBeaver, sobre `rrhh.db`. Necesitan SQLite 3.28 o superior, que ya viene con Python 3.8 en adelante.
 
+## Versión SQL Server (T-SQL)
+
+La carpeta `sql_server/` tiene la misma base y las mismas 9 consultas escritas para SQL Server 2017 o superior.
+
+| Archivo | Qué hace |
+|---|---|
+| `00_esquema.sql` | Tablas con tipos `DATE`, `DECIMAL` y `NVARCHAR`, claves foráneas, restricciones `CHECK` con nombre, índices con `INCLUDE` y la vista `v_colaboradores`. |
+| `01_cargar_datos.sql` | Carga los CSV con `BULK INSERT` a tablas temporales, normaliza áreas, niveles y cargos, convierte tipos con `TRY_CONVERT` y controla la integridad dentro de una transacción: si algo no cuadra, hace `ROLLBACK` y no carga nada. |
+| `02_procedimientos.sql` | `usp_costo_ausentismo` (costo para cualquier rango de fechas), `usp_alerta_horas_extra` (umbral y meses mínimos como parámetros), `usp_validar_integridad` (5 controles de calidad) y la vista `v_ausentismo_mensual`, pensada como origen de un modelo en Power BI. |
+| `consultas/` | Las 9 consultas en T-SQL, con los mismos nombres que en SQLite. |
+| `probar_sql_server.py` | Arma la base desde Python con `pyodbc`, corre las 9 consultas y las compara con `resultados/`. |
+
+Qué cambia respecto de SQLite:
+
+| SQLite | SQL Server |
+|---|---|
+| `strftime('%Y-%m', fecha)` | `CONVERT(CHAR(7), fecha, 126)` |
+| `julianday(b) - julianday(a)` | `DATEDIFF(DAY, a, b)` |
+| `strftime('%w', fecha)` | `DATEDIFF(DAY, '19000101', fecha) % 7 + 1`, que no depende de `SET DATEFIRST` ni del idioma del servidor |
+| `SUM(condición)` | `SUM(CASE WHEN condición THEN 1 ELSE 0 END)` |
+| `WITH t (a, b) AS (VALUES ...)` | `SELECT ... FROM (VALUES ...) AS t (a, b)` |
+| `MAX(x, 0)` en una fila | `CASE` dentro de un `CROSS APPLY` |
+| Cláusula `WINDOW` | Ventana repetida (`WINDOW` recién existe desde SQL Server 2022) |
+| `AVG()` de enteros da decimales | `AVG(1.0 * x)`, porque en SQL Server `AVG()` de un entero devuelve un entero |
+
+Ejemplo de uso de los procedimientos:
+
+```sql
+EXEC dbo.usp_costo_ausentismo @desde = '20260101', @hasta = '20260630';   -- primer semestre de 2026
+EXEC dbo.usp_alerta_horas_extra @desde = '20251001', @umbral = 50, @meses_minimos = 2;
+EXEC dbo.usp_validar_integridad;
+```
+
+Para probarla en un SQL Server, sobre una base vacía (`CREATE DATABASE rrhh`):
+
+```bash
+pip install pyodbc
+python sql_server/probar_sql_server.py "DRIVER={ODBC Driver 18 for SQL Server};SERVER=localhost;DATABASE=rrhh;Trusted_Connection=yes;TrustServerCertificate=yes"
+```
+
+**Cómo se verificó.** Las 9 consultas T-SQL se tradujeron a DuckDB con [sqlglot](https://github.com/tobymao/sqlglot) y se corrieron sobre los mismos datos: dan exactamente los mismos resultados que la versión SQLite, fila por fila. `probar_sql_server.py` hace la misma comparación contra un SQL Server real.
+
+**Un hallazgo de calidad de datos.** El control de ausencias superpuestas de `usp_validar_integridad` encuentra 2 casos entre las 8.549 ausencias: la misma persona tiene registrados dos episodios en fechas que se pisan (por ejemplo, una baja médica del 9 al 11 y una falta el día 10). Afectan 2 días en 3 años, así que no cambian los resultados; con datos reales, se corregirían en el sistema de origen.
+
 ## Límites
 
 - El costo es una estimación con supuestos simples. En la práctica, la seguridad social cubre parte de las bajas médicas largas, y eso hay que descontarlo con datos reales.
 - El factor de Bradford sirve para ordenar las conversaciones, no para sancionar: detrás de muchas ausencias cortas puede haber una enfermedad o un problema familiar.
-- Las consultas usan funciones de fecha de SQLite. Para PostgreSQL o SQL Server hay que cambiar `strftime` y `julianday` por sus equivalentes.
+- Las consultas de `consultas/` usan funciones de fecha de SQLite; las de `sql_server/consultas/` son la versión para SQL Server. Para PostgreSQL habría que adaptar las fechas otra vez.
 
-**Herramientas:** SQL (SQLite) · Python · pandas · matplotlib
+**Herramientas:** SQL (SQLite y SQL Server / T-SQL) · Python · pandas · matplotlib
 
 ---
 
@@ -178,6 +225,7 @@ Las consultas también se pueden abrir y ejecutar en DB Browser for SQLite o DBe
 This is an HR analytics project in SQL on a fictional bottling company with about 500 employees and synthetic data from October 2023 to September 2026.
 - The SQLite database is normalized, with constraints, indexes and a view. Nine commented queries cover headcount, rolling 12-month turnover, tenure-based turnover rates, absenteeism, the Bradford factor, the cost of absence and overtime-overload streaks.
 - The queries use CTEs, window functions and gaps-and-islands.
+- A SQL Server (T-SQL) version adds typed tables, a transactional bulk load with integrity checks, parameterized stored procedures and a view ready for Power BI. Its nine queries return exactly the same results as the SQLite version.
 
 Key findings: absence costs about Bs 0.92 million a year, and half of that is overtime to cover the missing person. Unjustified absences cluster on Mondays. People are absent 2.1 times more often in the three months before they resign.
 
